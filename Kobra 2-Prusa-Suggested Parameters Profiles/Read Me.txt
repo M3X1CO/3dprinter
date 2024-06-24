@@ -1,1 +1,0 @@
-The slice software used by AnyCubic Kobra 2 is PRUSASLICER. For the use of this configuration file, please refer to the PrusaSlicer_Usage Instructions.
