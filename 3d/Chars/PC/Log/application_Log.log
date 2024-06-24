@@ -1,0 +1,615 @@
+2024-06-09 13:51:37 [INFO] AnycubicPhotonWorkshop start!
+2024-06-09 13:51:37 [INFO] argc:  2
+2024-06-09 13:51:37 [WARN] "C:/Program Files/AnycubicPhotonWorkshop"
+2024-06-09 13:51:37 [WARN] Successfully init crashpad
+2024-06-09 13:51:37 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 55 Regular L3" '
+2024-06-09 13:51:37 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 95 ExtraBold" '
+2024-06-09 13:51:37 [INFO] ctk manager plugins:  "C:/Program Files/AnycubicPhotonWorkshop/plugins/"
+2024-06-09 13:51:37 [INFO] Load plugin org.commontk.eventadmin success.
+2024-06-09 13:51:37 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/splashwindow.dll"
+2024-06-09 13:51:37 [INFO] Install Plugin Success!
+2024-06-09 13:51:37 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 55 Regular L3" '
+2024-06-09 13:51:37 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 95 ExtraBold" '
+2024-06-09 13:51:37 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/printer.dll"
+2024-06-09 13:51:37 [INFO] Install Plugin Success!
+2024-06-09 13:51:37 [FATAL] readDataFromFile (C:/Program Files/AnycubicPhotonWorkshop/machine_type/Anycubic Photon Mono M7.pwsp) is error.
+2024-06-09 13:51:37 [FATAL] loadFactoryMachine factory market Anycubic Photon Mono M7 msg retcode -1, msg retmsg: 
+2024-06-09 13:51:37 [WARN] loadMachineResin currentPrinter(Anycubic Photon Mono M5s) init success.
+2024-06-09 13:51:37 [INFO] loadMachineParamRange is success.
+2024-06-09 13:51:37 [INFO] loadMachineResinType is success.
+2024-06-09 13:51:37 [INFO] loadMachineResinName is success.
+2024-06-09 13:51:37 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/mainwindow.dll"
+2024-06-09 13:51:37 [INFO] Install Plugin Success!
+2024-06-09 13:51:37 [INFO] "current server is testserver. 0"
+2024-06-09 13:51:37 [INFO] QVariant(QByteArray, "mqtt.anycubic.com")
+2024-06-09 13:51:37 [INFO] QVariant(QByteArray, "mqtt-universe.anycubic.com")
+2024-06-09 13:51:37 [INFO] QVariant(QByteArray, "8883")
+2024-06-09 13:51:37 [INFO] QVariant(QByteArray, "8883")
+2024-06-09 13:51:37 [INFO] "environment_url is https://workbentch.s3.us-east-2.amazonaws.com/workshop/environment.ini"
+2024-06-09 13:51:37 [INFO] QmlFactory 0.009 s
+2024-06-09 13:51:37 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/autoupdater.dll"
+2024-06-09 13:51:37 [INFO] Install Plugin Success!
+2024-06-09 13:51:37 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/gareport.dll"
+2024-06-09 13:51:37 [INFO] Install Plugin Success!
+2024-06-09 13:51:37 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/accloud.dll"
+2024-06-09 13:51:37 [INFO] Install Plugin Success!
+2024-06-09 13:51:37 [WARN] void __cdecl ACCloudNetRequest::init(void), cn_server = mqtt.anycubic.com, cn_server_port = 8883, en_server = mqtt-universe.anycubic.com, en_server_port = 8883, url = https://cloud-universe.anycubic.com/p/p/workbench/api
+2024-06-09 13:51:37 [WARN] CountriesDataModel::setCurrCountryIdn, newCurrCountryIdn = CN
+2024-06-09 13:51:37 [WARN] void __cdecl ACCloudNetRequest::getCountries(void)
+2024-06-09 13:51:37 [WARN] void __cdecl ACCloudNetRequest::getPrintCtrlCodeReasons(void)
+2024-06-09 13:51:37 [WARN] ACCloudManager::ACCloudManager, cloud model, build_time = 2024-04-26 17:28:45, git_brance = feat/casdoor, git_hash = 6b20758, git_commit = 2024-04-26
+2024-06-09 13:51:37 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/facegen.dll"
+2024-06-09 13:51:37 [INFO] Install Plugin Success!
+2024-06-09 13:51:37 [WARN] Translation::changedSystemLanguage, language = 0
+2024-06-09 13:51:37 [WARN] register  GizmoController
+2024-06-09 13:51:37 [WARN] enableMenuShortcut menushort cut: 0
+2024-06-09 13:51:37 [INFO] uiState:  false
+2024-06-09 13:51:37 [WARN] enableMenuShortcut menushort cut: 0
+2024-06-09 13:51:37 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:37 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:37 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:37 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:37 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:37 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:38 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:38 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:38 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:38 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:38 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:38 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:38 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:38 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:38 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:38 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:38 [WARN] xChanged 1
+2024-06-09 13:51:38 [INFO] event:  "splash_window_visible" data:  QVariant(bool, false) extentionData:  QVariant(Invalid)
+2024-06-09 13:51:38 [INFO] event:  "main_load" data:  QVariant(Invalid) extentionData:  QVariant(Invalid)
+2024-06-09 13:51:38 [INFO] event:  "main_language_changed" data:  QVariant(int, 0) extentionData:  QVariant(Invalid)
+2024-06-09 13:51:38 [INFO] uiState:  true
+2024-06-09 13:51:38 [WARN] creating renderer
+2024-06-09 13:51:38 [WARN] printer valid --:  109.44 61.44
+2024-06-09 13:51:38 [WARN] printer build --:  109.44 61.44
+2024-06-09 13:51:38 [WARN] deltaX -- :  0
+2024-06-09 13:51:38 [WARN] deltaY -- :  0
+2024-06-09 13:51:38 [WARN] machine boarder width 2-------------------- 
+2024-06-09 13:51:38 [WARN] create planar shadow node
+2024-06-09 13:51:38 [WARN] loadGizmoRotationHead OK 576
+2024-06-09 13:51:38 [INFO]  camera_manipulator::home
+2024-06-09 13:51:38 [INFO]  camera_manipulator::home/ComputeBound
+2024-06-09 13:51:38 [INFO]  camera_manipulator::home
+2024-06-09 13:51:38 [INFO]  camera_manipulator::home/ComputeBound
+2024-06-09 13:51:38 [INFO]  camera_manipulator::home/BoundingSphere
+2024-06-09 13:51:38 [INFO]  camera_manipulator::home/udpate_view
+2024-06-09 13:51:38 [WARN] GL Verison:  0x25b2c8500a8
+2024-06-09 13:51:38 [WARN] GL Renderer:  0x25b2c8a7b1c
+2024-06-09 13:51:38 [WARN] compile shader program ok
+2024-06-09 13:51:38 [WARN] compile shader program ok
+2024-06-09 13:51:38 [WARN] compile shader program ok
+2024-06-09 13:51:38 [WARN] AnyGizmos::Im3d_Init      LoadCompileShader Ok
+2024-06-09 13:51:38 [WARN] AnyGizmos::Im3d_Init   VAO release Ok
+2024-06-09 13:51:38 [WARN] void __cdecl ACCloudNetRequest::autoLogin(enum UserInfo::LoginMethod)
+2024-06-09 13:51:38 [WARN] void __cdecl ACCloudNetRequest::login(const class QString &,const class QString &,const class QString &,const class QString &,enum UserInfo::LoginMethod)
+username = howard.felix@outlook.com, password = Fuckoff45, country = CN, loginMethod = 0, accountType = 1
+2024-06-09 13:51:38 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:38 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:38 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:38 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:38 [INFO] event:  "updater_init_compeleted" data:  QVariant(Invalid) extentionData:  QVariant(Invalid)
+2024-06-09 13:51:38 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:38 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:38 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:38 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:38 [WARN] void __cdecl EventMiniHandlerCallback::event(const struct ReasonResponse *,unsigned int)
+2024-06-09 13:51:38 [WARN] void __cdecl ACCloudNetRequest::getCountries(void)
+2024-06-09 13:51:38 [WARN] void __cdecl ACCloudNetRequest::getPrintCtrlCodeReasons(void)
+2024-06-09 13:51:38 [INFO] event:  "accloud_start_init" data:  QVariant(int, 0) extentionData:  QVariant(int, 0)
+2024-06-09 13:51:38 [INFO] parseImportFiles model files: C:\Users\Howar\Desktop\3dprinter\3d\Chars\PC\Santa.stl
+2024-06-09 13:51:38 [INFO] parseImportFiles model files: C:\Users\Howar\Desktop\3dprinter\3d\Chars\PC\Santa.stl
+2024-06-09 13:51:38 [WARN]  - 1 ImportFilesDialog, importModelFiles file = C:\Users\Howar\Desktop\3dprinter\3d\Chars\PC\Santa.stl, modelQualityChecked = true
+2024-06-09 13:51:38 [INFO] "start check autoUpdater!"
+2024-06-09 13:51:38 [WARN] -slot_closeGizmoWhenLoadModel
+2024-06-09 13:51:38 [INFO] event:  "updater_check" data:  QVariant(Invalid) extentionData:  QVariant(Invalid)
+2024-06-09 13:51:38 [WARN] void __cdecl PrintersDataModel::onReasonResponse(const struct ReasonResponse *,int)
+count = 211
+2024-06-09 13:51:38 [INFO] send post data success!
+2024-06-09 13:51:38 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:38 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:38 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:38 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:38 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:38 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:38 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:38 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:38 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:38 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:38 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:38 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:38 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:38 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:38 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:38 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:38 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:38 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:38 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:38 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:38 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:38 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:38 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:38 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:38 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:38 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:38 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:38 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:38 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:38 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:38 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:38 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:38 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:38 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:38 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:38 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:38 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:38 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:39 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:39 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:39 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:39 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:39 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:39 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:39 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:39 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:39 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:39 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:39 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:39 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:39 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:39 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:39 [INFO] uiState:  false
+2024-06-09 13:51:39 [WARN] enableMenuShortcut menushort cut: 8
+2024-06-09 13:51:39 [INFO] uiState:  false
+2024-06-09 13:51:39 [WARN] enableMenuShortcut menushort cut: 136
+2024-06-09 13:51:39 [INFO] uiState:  false
+2024-06-09 13:51:39 [WARN] enableMenuShortcut menushort cut: 128
+2024-06-09 13:51:39 [INFO] "doReportImportModelResult!"
+2024-06-09 13:51:39 [INFO] event:  "ga_report" data:  QVariant(QByteArray, "{\n    \"business\": \"model_prepare\",\n    \"elementContent\": \"Import Files\",\n    \"elementType\": \"BUTTON\",\n    \"event\": \"ImportModelResult\",\n    \"function\": \"import_model\",\n    \"module\": \"menu_bar\",\n    \"printerType\": \"LCD\",\n    \"title\": \"\"\n}\n") extentionData:  QVariant(QByteArray, "{\n    \"importType\": \"4\",\n    \"modelInformation\": [\n        {\n            \"fileName\": \"Santa\",\n            \"fileSize\": 3899734,\n            \"fileType\": \"stl\",\n            \"isSuccess\": 0\n        }\n    ],\n    \"numberOfModel\": 1\n}\n")
+2024-06-09 13:51:39 [WARN] gizmo emit sceneModelChanged
+2024-06-09 13:51:39 [INFO] uiState:  false
+2024-06-09 13:51:39 [WARN] enableMenuShortcut menushort cut: 136
+2024-06-09 13:51:39 [INFO] uiState:  false
+2024-06-09 13:51:39 [WARN] enableMenuShortcut menushort cut: 128
+2024-06-09 13:51:39 [INFO] "doReadMachineLcd setMachine Anycubic Photon Mono M5s"
+2024-06-09 13:51:39 [INFO] uiState:  false
+2024-06-09 13:51:39 [WARN] enableMenuShortcut menushort cut: 136
+2024-06-09 13:51:39 [WARN] ctrl_select IS_PROPERTY_SELECTED1  true 1
+2024-06-09 13:51:39 [INFO] uiState:  false
+2024-06-09 13:51:39 [WARN] enableMenuShortcut menushort cut: 128
+2024-06-09 13:51:39 [INFO] sendData:  "{\n    \"appName\": \"AnycubicPhotonWorkshop_V3.3.2\",\n    \"appVersion\": \"v3.3.2\",\n    \"business\": \"\",\n    \"city\": \"0\",\n    \"country\": \"\xE6\xB3\xB0\xE5\x9B\xBD\",\n    \"elementContent\": \"\",\n    \"elementType\": \"\",\n    \"eventName\": \"ImportModelResult\",\n    \"function\": \"\",\n    \"isOverseasVersion\": true,\n    \"module\": \"\",\n    \"pcId\": \"735cdda212f7abd64a6d2f9a62594f1f\",\n    \"printerType\": \"\",\n    \"province\": \"Nakhon-Ratchasima\",\n    \"timestamp\": 1717915899,\n    \"title\": \"\",\n    \"userId\": 0\n}\n"
+2024-06-09 13:51:39 [INFO] get_model_height() osg_model_group
+2024-06-09 13:51:39 [WARN] void __cdecl ACCloudNetRequest::onEvent(struct NetworkRequest::EventData)
+, event.event = 13, status = 0, code = 1, msg = Login successful
+2024-06-09 13:51:39 [WARN] void __cdecl ACCloudNetRequest::onLoginResult(void)
+nickName = AC User 130636
+2024-06-09 13:51:39 [WARN] void __cdecl ACCloudNetRequest::getFileList(const struct FileListRequest *)
+page = 1, limit = 50, fileType = 0, orderby = 1, machine_type = 0, loginStatus = 1
+2024-06-09 13:51:39 [WARN] void __cdecl MyFileListModel::onLoginResult(void)
+2024-06-09 13:51:39 [WARN] void __cdecl PrintersDataModel::onLoginResult(void)
+2024-06-09 13:51:39 [WARN] void __cdecl PrintersDataModel::setupCloudEvent(void)
+m_networkStatus = 1
+2024-06-09 13:51:39 [WARN] void __cdecl ACCloudNetRequest::setupCloudEvent(void), -- 1
+2024-06-09 13:51:39 [WARN] void __cdecl ACCloudNetRequest::setupCloudEvent(void), -- 2
+2024-06-09 13:51:39 [WARN] void __cdecl ACCloudNetRequest::getMessageCount(void)
+2024-06-09 13:51:39 [WARN] void __cdecl ACCloudNetRequest::getMessageList(int,int,int)
+msgtype = 1, pageIndex = 1, pageSize = 1
+2024-06-09 13:51:39 [WARN] void __cdecl CloudMsgNotifyListModel::onLoginResult(void)
+2024-06-09 13:51:39 [WARN] void __cdecl ACCloudGaSupport::doReportLoginResult(const class QString &,const class QString &,const bool &,const class QString &)
+loginType = auto_login, loginMethod = email, isSuccess = 1, failReason = Login successful
+2024-06-09 13:51:39 [WARN] void __cdecl ACCloudManager::onLoginResult(void), nickName = AC User 130636, userId = 142227, doReportLoginResult finish
+2024-06-09 13:51:39 [INFO] sendData:  "{\n    \"appName\": \"AnycubicPhotonWorkshop_V3.3.2\",\n    \"appVersion\": \"v3.3.2\",\n    \"business\": \"\",\n    \"city\": \"0\",\n    \"country\": \"\xE6\xB3\xB0\xE5\x9B\xBD\",\n    \"elementContent\": \"\",\n    \"elementType\": \"\",\n    \"eventName\": \"AppStart\",\n    \"function\": \"\",\n    \"isOverseasVersion\": true,\n    \"module\": \"\",\n    \"pcId\": \"735cdda212f7abd64a6d2f9a62594f1f\",\n    \"printerType\": \"\",\n    \"province\": \"Nakhon-Ratchasima\",\n    \"timestamp\": 1717915899,\n    \"title\": \"\",\n    \"userId\": 142227\n}\n"
+2024-06-09 13:51:39 [INFO] sendData:  "{\n    \"appName\": \"AnycubicPhotonWorkshop_V3.3.2\",\n    \"appVersion\": \"v3.3.2\",\n    \"business\": \"\",\n    \"city\": \"0\",\n    \"country\": \"\xE6\xB3\xB0\xE5\x9B\xBD\",\n    \"elementContent\": \"\",\n    \"elementType\": \"\",\n    \"eventName\": \"LoginResult\",\n    \"function\": \"\",\n    \"isOverseasVersion\": true,\n    \"module\": \"\",\n    \"pcId\": \"735cdda212f7abd64a6d2f9a62594f1f\",\n    \"printerType\": \"\",\n    \"province\": \"Nakhon-Ratchasima\",\n    \"timestamp\": 1717915899,\n    \"title\": \"\",\n    \"userId\": 142227\n}\n"
+2024-06-09 13:51:39 [INFO] send post data success!
+2024-06-09 13:51:39 [WARN] void __cdecl EventMiniHandlerCallback::event(const struct ReasonResponse *,unsigned int)
+2024-06-09 13:51:39 [WARN] void __cdecl PrintersDataModel::onReasonResponse(const struct ReasonResponse *,int)
+count = 211
+2024-06-09 13:51:40 [INFO] "doReportBasicRepair!"
+2024-06-09 13:51:40 [INFO] event:  "ga_report" data:  QVariant(QByteArray, "{\n    \"business\": \"model_prepare\",\n    \"elementContent\": \"Basic Repair\",\n    \"elementType\": \"BUTTON\",\n    \"event\": \"ClickBasicRepairButton\",\n    \"function\": \"repair\",\n    \"module\": \"top_toolbar\",\n    \"printerType\": \"LCD\",\n    \"title\": \"Repair Model(s)\"\n}\n") extentionData:  QVariant(Invalid)
+2024-06-09 13:51:40 [INFO] uiState:  true
+2024-06-09 13:51:40 [WARN] enableMenuShortcut menushort cut: 0
+2024-06-09 13:51:40 [INFO] uiState:  false
+2024-06-09 13:51:40 [WARN] enableMenuShortcut menushort cut: 8
+2024-06-09 13:51:40 [INFO] sendData:  "{\n    \"appName\": \"AnycubicPhotonWorkshop_V3.3.2\",\n    \"appVersion\": \"v3.3.2\",\n    \"business\": \"\",\n    \"city\": \"0\",\n    \"country\": \"\xE6\xB3\xB0\xE5\x9B\xBD\",\n    \"elementContent\": \"\",\n    \"elementType\": \"\",\n    \"eventName\": \"ClickBasicRepairButton\",\n    \"function\": \"\",\n    \"isOverseasVersion\": true,\n    \"module\": \"\",\n    \"pcId\": \"735cdda212f7abd64a6d2f9a62594f1f\",\n    \"printerType\": \"\",\n    \"province\": \"Nakhon-Ratchasima\",\n    \"timestamp\": 1717915900,\n    \"title\": \"\",\n    \"userId\": 142227\n}\n"
+2024-06-09 13:51:40 [WARN] current value =  3
+2024-06-09 13:51:40 [WARN] current value =  4
+2024-06-09 13:51:40 [WARN] current value =  10
+2024-06-09 13:51:40 [INFO] send post data success!
+2024-06-09 13:51:40 [WARN] void __cdecl EventMiniHandlerCallback::event(const struct MessageListResponse *,unsigned int,unsigned int,unsigned int,unsigned int)
+2024-06-09 13:51:40 [WARN] void __cdecl ACCloudNetRequest::onMessageListResponse(const struct MessageListResponse *,int,int,int,int)
+count = 1, pageIndex = 1, pageSize = 50, countAll = 1
+2024-06-09 13:51:40 [WARN] CloudMsgNotifyListModel::onMessageListResponse, count = 1, pageIndex = 1, pageSize = 50, countAll = 1
+2024-06-09 13:51:40 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:51:40 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:51:40 [WARN] current value =  11
+2024-06-09 13:51:40 [WARN] current value =  12
+2024-06-09 13:51:40 [WARN] current value =  13
+2024-06-09 13:51:40 [WARN] void __cdecl EventMiniHandlerCallback::event(const struct MessageCountResponse *,unsigned int)
+2024-06-09 13:51:40 [WARN] MyFileListModel::onFileLists, pageIndex = 1, pageSize = 50, countAll = 6, size = 6
+2024-06-09 13:51:40 [WARN] current value =  15
+2024-06-09 13:51:40 [WARN] void __cdecl CloudMsgNotifyListModel::onMessageCountResponse(const struct MessageCountResponse *,int), count = 3
+2024-06-09 13:51:40 [INFO] send post data success!
+2024-06-09 13:51:40 [WARN] void __cdecl PrinterEventHandlerCallback::event(const struct Anycubic::Event *)
+2024-06-09 13:51:40 [INFO] send post data success!
+2024-06-09 13:51:40 [WARN] void __cdecl PrintersDataModel::onPrinterCommonEvent(const struct Anycubic::Event *)
+code = 0, action = 500, status = 0, type = 20, errMsg = Unknown Reason, state = 
+2024-06-09 13:51:40 [WARN] void __cdecl PrintersDataModel::getListPrinter(void)
+m_printersTableStatus = 0, m_cloudNetRequest->userInfo()->loginStatus() = 0
+2024-06-09 13:51:40 [WARN] void __cdecl ACCloudNetRequest::getListPrinter(void)
+LOGIN_STATUS = 0
+2024-06-09 13:51:41 [WARN] current value =  18
+2024-06-09 13:51:41 [WARN] void __cdecl PrintersDataModel::onPrinterListEvent(void *,int,void *)
+count = 1
+2024-06-09 13:51:41 [WARN] void __cdecl ACCloudNetRequest::getPrinterDetail(int)
+printerId = 69543
+2024-06-09 13:51:41 [WARN] GizmoController::slot_refreshFix  0 1
+2024-06-09 13:51:41 [INFO] uiState:  true
+2024-06-09 13:51:41 [WARN] enableMenuShortcut menushort cut: 0
+2024-06-09 13:51:41 [WARN] ctrl_select IS_PROPERTY_SELECTED1  true 1
+2024-06-09 13:51:41 [WARN] slot_updateRotationState
+2024-06-09 13:51:41 [WARN] in 555555555555555555555555555555555555555555555555555555555555  1 _matrixTransform
+2024-06-09 13:51:41 [WARN] ccccccccc:  1.38289 , 1.66152 , 2.51272
+2024-06-09 13:51:41 [WARN] eeeeeeeee:  1.38289 , 1.66152 , 2.51272
+2024-06-09 13:51:41 [INFO] get_model_height() osg_model_group
+2024-06-09 13:51:41 [WARN] replace add model id:  1
+2024-06-09 13:51:41 [WARN] void __cdecl PrinterEventHandlerCallback::event(const struct Anycubic::Event *)
+2024-06-09 13:51:42 [WARN] void __cdecl PrintersDataModel::onPrinterCommonEvent(const struct Anycubic::Event *)
+code = 0, action = 502, status = 0, type = 20, errMsg = Unknown Reason, state = 
+2024-06-09 13:51:42 [WARN] void __cdecl EventMiniHandlerCallback::event(const struct PrinterDetailResponse *)
+2024-06-09 13:51:42 [WARN] void __cdecl PrintersDataModel::onPrinterDetailResponse(const struct PrinterDetailResponse *)
+detail->name = Anycubic Photon Mono M5s, detail->project.print_status = 0, detail->project.pause = 0, detail->project.project_type = 0, detail->device_status = 2, detail->is_printing = 1
+2024-06-09 13:51:52 [WARN] auxiliaryClicked  6
+2024-06-09 13:51:52 [INFO] uiState:  false
+2024-06-09 13:51:52 [WARN] WindowClickedOperation
+2024-06-09 13:51:52 [WARN] clik btn 3
+2024-06-09 13:51:52 [WARN] bindSelectedModel2
+2024-06-09 13:51:52 [WARN] auxiliaryClicked  6
+2024-06-09 13:51:52 [WARN] in recoverInitState: ( 1.38289 , 1.66152 , 2.51272 ) 
+2024-06-09 13:51:52 [WARN] set mgs
+2024-06-09 13:51:52 [WARN] box_len_after_rotation:  1.38289 ,  1.66152 ,  2.51272
+2024-06-09 13:51:52 [WARN] aaaaaaaa:  1.38289 , 1.66152 , 2.51272
+2024-06-09 13:51:52 [WARN] bbbbbbbb:  1.38289 , 1.66152 , 2.51272
+2024-06-09 13:51:52 [WARN] cccccccc:  1 , 1 , 1
+2024-06-09 13:51:52 [WARN] AuxiliaryClickedOperation
+2024-06-09 13:51:52 [WARN] auxiliaryClicked Op 6
+2024-06-09 13:51:52 [WARN] AuxiliaryClickedOperation
+2024-06-09 13:51:52 [WARN] auxiliaryClicked Op 6
+2024-06-09 13:52:03 [WARN] WindowClickedOperation
+2024-06-09 13:52:03 [WARN] window clicked1------------------------------------ 2 ( 16.5107 ,  19.8373 ,  30 ,  false )
+2024-06-09 13:52:03 [WARN] add gizmo commandRecord single  3
+2024-06-09 13:52:03 [WARN] GizmoController::commandRecord()
+2024-06-09 13:52:03 [WARN] in commander record   false    3
+2024-06-09 13:52:03 [WARN] createSnapshot mirror false false false
+2024-06-09 13:52:03 [WARN] createSnapshot box len 1.38289 , 1.66152 , 2.51272
+2024-06-09 13:52:03 [WARN] new state change command  3
+2024-06-09 13:52:03 [WARN] scale clicked2 ( 16.5107 ,  19.8373 ,  30 )
+2024-06-09 13:52:03 [WARN] scale clicked3 ( 16.5107 ,  19.8373 ,  30 )
+2024-06-09 13:52:03 [WARN] scale clicked end-1 ( 1 ,  1 ,  1 )
+2024-06-09 13:52:03 [WARN] scale clicked end0 ( 11.9393 ,  11.9393 ,  11.9393 )
+2024-06-09 13:52:03 [WARN] scale clicked end1 ( 11.9393 ,  11.9393 ,  11.9393 )
+2024-06-09 13:52:03 [WARN] scale clicked end2 ( 16.5107 ,  19.8373 ,  30 )
+2024-06-09 13:52:03 [WARN] gizmo emit sceneModelChanged
+2024-06-09 13:52:03 [WARN] aaaaaaaa:  16.5107 , 19.8373 , 30
+2024-06-09 13:52:03 [WARN] bbbbbbbb:  1.38289 , 1.66152 , 2.51272
+2024-06-09 13:52:03 [WARN] cccccccc:  11.9393 , 11.9393 , 11.9393
+2024-06-09 13:52:03 [WARN] WindowClickedOperation
+2024-06-09 13:52:03 [WARN] window clicked1------------------------------------ 2 ( 16.5107 ,  19.8373 ,  30 ,  false )
+2024-06-09 13:52:03 [WARN] add gizmo commandRecord single  3
+2024-06-09 13:52:03 [WARN] GizmoController::commandRecord()
+2024-06-09 13:52:03 [WARN] in commander record   false    3
+2024-06-09 13:52:03 [WARN] createSnapshot mirror false false false
+2024-06-09 13:52:03 [WARN] createSnapshot box len 1.38289 , 1.66152 , 2.51272
+2024-06-09 13:52:03 [WARN] _modelMatrices[id]!=(*acm) "Santa.stl_fixed"  -  "Santa.stl_fixed"
+2024-06-09 13:52:03 [WARN] new state change command  3
+2024-06-09 13:52:03 [WARN] scale clicked2 ( 16.5107 ,  19.8373 ,  30 )
+2024-06-09 13:52:03 [WARN] scale clicked3 ( 16.5107 ,  19.8373 ,  30 )
+2024-06-09 13:52:03 [WARN] scale clicked end-1 ( 11.9393 ,  11.9393 ,  11.9393 )
+2024-06-09 13:52:03 [WARN] scale clicked end0 ( 11.9393 ,  11.9393 ,  11.9393 )
+2024-06-09 13:52:03 [WARN] scale clicked end1 ( 11.9393 ,  11.9393 ,  11.9393 )
+2024-06-09 13:52:03 [WARN] scale clicked end2 ( 16.5107 ,  19.8373 ,  30 )
+2024-06-09 13:52:03 [WARN] gizmo emit sceneModelChanged
+2024-06-09 13:52:03 [WARN] gizmo emit sceneModelChanged
+2024-06-09 13:52:03 [WARN] gizmo emit sceneModelChanged
+2024-06-09 13:52:03 [WARN] add gizmo commandRecord single  3
+2024-06-09 13:52:03 [WARN] in record current 
+2024-06-09 13:52:03 [WARN] createSnapshot mirror false false false
+2024-06-09 13:52:03 [WARN] createSnapshot box len 1.38289 , 1.66152 , 2.51272
+2024-06-09 13:52:03 [WARN] same state change for current command
+2024-06-09 13:52:03 [WARN] ScaleCallBackOperation originXYZ 0 0.25 -13.7436
+2024-06-09 13:52:03 [WARN] ScaleCallBackOperation nowXYZ 0 0.25 -13.7436
+2024-06-09 13:52:03 [WARN] ScaleCallBack deltaXYZ 0 0 0
+2024-06-09 13:52:03 [WARN] window clicked2------------------------------------ 2 ( 16.5107 ,  19.8373 ,  30 ,  false )
+2024-06-09 13:52:03 [WARN] add gizmo commandRecord single  3
+2024-06-09 13:52:03 [WARN] in record current 
+2024-06-09 13:52:03 [WARN] createSnapshot mirror false false false
+2024-06-09 13:52:03 [WARN] createSnapshot box len 1.38289 , 1.66152 , 2.51272
+2024-06-09 13:52:03 [WARN] _modelMatrices[id]!=(*acm) "Santa.stl_fixed"  -  "Santa.stl_fixed"
+2024-06-09 13:52:03 [WARN] _undoStack.peek().getGizmoType()  3 ,   _undoStack.peek().getIsDraggingModel()  false
+2024-06-09 13:52:03 [WARN] emit AppGlobal::instance()->commandModelRotMatrix(mainnodes);
+2024-06-09 13:52:03 [WARN] ScaleCallBackOperation originXYZ 0 0.25 0
+2024-06-09 13:52:03 [WARN] ScaleCallBackOperation nowXYZ 0 0.25 -13.7436
+2024-06-09 13:52:03 [WARN] ScaleCallBack deltaXYZ 0 0 13.7436
+2024-06-09 13:52:03 [WARN] gizmo emit sceneModelChanged
+2024-06-09 13:52:03 [WARN] gizmo EmitModelTransformedOperation
+2024-06-09 13:52:03 [WARN] gizmo EmitModelTransformedOperation
+2024-06-09 13:52:03 [WARN] ScaleCallBackOperation finally scale xyz:  0 ,  0.25 ,  0
+2024-06-09 13:52:03 [WARN] window clicked2------------------------------------ 2 ( 16.5107 ,  19.8373 ,  30 ,  false )
+2024-06-09 13:52:03 [WARN] gizmo emit sceneModelChanged
+2024-06-09 13:52:03 [WARN] gizmo EmitModelTransformedOperation
+2024-06-09 13:52:12 [INFO] uiState:  true
+2024-06-09 13:52:12 [WARN] WindowClickedOperation
+2024-06-09 13:52:12 [WARN] clik btn -1
+2024-06-09 13:52:12 [WARN] close window
+2024-06-09 13:52:12 [WARN] inbind
+2024-06-09 13:52:12 [WARN] in store: ( 16.5107 , 19.8373 , 30 ) 
+2024-06-09 13:52:12 [WARN] syncInitScale3: ( 16.5107 , 19.8373 , 30 ) 
+2024-06-09 13:52:21 [INFO] scene modifyed:  true
+2024-06-09 13:52:21 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:52:21 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:52:21 [INFO] uiState:  false
+2024-06-09 13:52:23 [INFO] uiState:  true
+2024-06-09 13:52:28 [INFO] scene modifyed:  true
+2024-06-09 13:52:28 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:52:28 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:52:28 [INFO] uiState:  false
+2024-06-09 13:52:30 [INFO] uiState:  true
+2024-06-09 13:52:30 [INFO] save support file is success!
+2024-06-09 13:52:31 [INFO] AnycubicPhotonWorkshop end!
+2024-06-09 13:52:31 [WARN] QThreadStorage: Thread 0x25b23ce2aa0 exited after QThreadStorage 7 destroyed
+2024-06-09 13:53:29 [INFO] AnycubicPhotonWorkshop start!
+2024-06-09 13:53:29 [INFO] argc:  2
+2024-06-09 13:53:29 [WARN] "C:/Program Files/AnycubicPhotonWorkshop"
+2024-06-09 13:53:29 [WARN] Successfully init crashpad
+2024-06-09 13:53:29 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 55 Regular L3" '
+2024-06-09 13:53:29 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 95 ExtraBold" '
+2024-06-09 13:53:29 [INFO] ctk manager plugins:  "C:/Program Files/AnycubicPhotonWorkshop/plugins/"
+2024-06-09 13:53:29 [INFO] Load plugin org.commontk.eventadmin success.
+2024-06-09 13:53:29 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/splashwindow.dll"
+2024-06-09 13:53:29 [INFO] Install Plugin Success!
+2024-06-09 13:53:29 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 55 Regular L3" '
+2024-06-09 13:53:29 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 95 ExtraBold" '
+2024-06-09 13:53:29 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/printer.dll"
+2024-06-09 13:53:29 [INFO] Install Plugin Success!
+2024-06-09 13:53:29 [FATAL] readDataFromFile (C:/Program Files/AnycubicPhotonWorkshop/machine_type/Anycubic Photon Mono M7.pwsp) is error.
+2024-06-09 13:53:29 [FATAL] loadFactoryMachine factory market Anycubic Photon Mono M7 msg retcode -1, msg retmsg: 
+2024-06-09 13:53:29 [WARN] loadMachineResin currentPrinter(Anycubic Photon Mono M5s) init success.
+2024-06-09 13:53:29 [INFO] loadMachineParamRange is success.
+2024-06-09 13:53:29 [INFO] loadMachineResinType is success.
+2024-06-09 13:53:29 [INFO] loadMachineResinName is success.
+2024-06-09 13:53:29 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/mainwindow.dll"
+2024-06-09 13:53:29 [INFO] Install Plugin Success!
+2024-06-09 13:53:29 [INFO] "current server is testserver. 0"
+2024-06-09 13:53:29 [INFO] QVariant(QByteArray, "mqtt.anycubic.com")
+2024-06-09 13:53:29 [INFO] QVariant(QByteArray, "mqtt-universe.anycubic.com")
+2024-06-09 13:53:29 [INFO] QVariant(QByteArray, "8883")
+2024-06-09 13:53:29 [INFO] QVariant(QByteArray, "8883")
+2024-06-09 13:53:29 [INFO] "environment_url is https://workbentch.s3.us-east-2.amazonaws.com/workshop/environment.ini"
+2024-06-09 13:53:29 [INFO] QmlFactory 0.01 s
+2024-06-09 13:53:29 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/autoupdater.dll"
+2024-06-09 13:53:29 [INFO] Install Plugin Success!
+2024-06-09 13:53:29 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/gareport.dll"
+2024-06-09 13:53:29 [INFO] Install Plugin Success!
+2024-06-09 13:53:29 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/accloud.dll"
+2024-06-09 13:53:29 [INFO] Install Plugin Success!
+2024-06-09 13:53:29 [WARN] void __cdecl ACCloudNetRequest::init(void), cn_server = mqtt.anycubic.com, cn_server_port = 8883, en_server = mqtt-universe.anycubic.com, en_server_port = 8883, url = https://cloud-universe.anycubic.com/p/p/workbench/api
+2024-06-09 13:53:29 [WARN] CountriesDataModel::setCurrCountryIdn, newCurrCountryIdn = CN
+2024-06-09 13:53:29 [WARN] void __cdecl ACCloudNetRequest::getCountries(void)
+2024-06-09 13:53:29 [WARN] void __cdecl ACCloudNetRequest::getPrintCtrlCodeReasons(void)
+2024-06-09 13:53:29 [WARN] ACCloudManager::ACCloudManager, cloud model, build_time = 2024-04-26 17:28:45, git_brance = feat/casdoor, git_hash = 6b20758, git_commit = 2024-04-26
+2024-06-09 13:53:29 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/facegen.dll"
+2024-06-09 13:53:29 [INFO] Install Plugin Success!
+2024-06-09 13:53:29 [WARN] Translation::changedSystemLanguage, language = 0
+2024-06-09 13:53:29 [WARN] register  GizmoController
+2024-06-09 13:53:30 [WARN] enableMenuShortcut menushort cut: 0
+2024-06-09 13:53:30 [INFO] uiState:  false
+2024-06-09 13:53:30 [WARN] enableMenuShortcut menushort cut: 0
+2024-06-09 13:53:30 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:30 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:30 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:30 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:30 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:30 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:30 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:30 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:30 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:30 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:30 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:30 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:30 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:30 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:30 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:30 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:30 [WARN] xChanged 1
+2024-06-09 13:53:30 [INFO] event:  "splash_window_visible" data:  QVariant(bool, false) extentionData:  QVariant(Invalid)
+2024-06-09 13:53:30 [INFO] event:  "main_load" data:  QVariant(Invalid) extentionData:  QVariant(Invalid)
+2024-06-09 13:53:30 [INFO] event:  "main_language_changed" data:  QVariant(int, 0) extentionData:  QVariant(Invalid)
+2024-06-09 13:53:30 [INFO] uiState:  true
+2024-06-09 13:53:30 [WARN] creating renderer
+2024-06-09 13:53:30 [WARN] printer valid --:  109.44 61.44
+2024-06-09 13:53:30 [WARN] printer build --:  109.44 61.44
+2024-06-09 13:53:30 [WARN] deltaX -- :  0
+2024-06-09 13:53:30 [WARN] deltaY -- :  0
+2024-06-09 13:53:30 [WARN] machine boarder width 2-------------------- 
+2024-06-09 13:53:30 [WARN] create planar shadow node
+2024-06-09 13:53:30 [WARN] loadGizmoRotationHead OK 576
+2024-06-09 13:53:30 [INFO]  camera_manipulator::home
+2024-06-09 13:53:30 [INFO]  camera_manipulator::home/ComputeBound
+2024-06-09 13:53:30 [INFO]  camera_manipulator::home
+2024-06-09 13:53:30 [INFO]  camera_manipulator::home/ComputeBound
+2024-06-09 13:53:30 [INFO]  camera_manipulator::home/BoundingSphere
+2024-06-09 13:53:30 [INFO]  camera_manipulator::home/udpate_view
+2024-06-09 13:53:30 [WARN] GL Verison:  0x1b5be7e00a8
+2024-06-09 13:53:30 [WARN] GL Renderer:  0x1b5be837b1c
+2024-06-09 13:53:30 [WARN] compile shader program ok
+2024-06-09 13:53:30 [WARN] compile shader program ok
+2024-06-09 13:53:30 [WARN] compile shader program ok
+2024-06-09 13:53:30 [WARN] AnyGizmos::Im3d_Init      LoadCompileShader Ok
+2024-06-09 13:53:30 [WARN] AnyGizmos::Im3d_Init   VAO release Ok
+2024-06-09 13:53:30 [WARN] void __cdecl ACCloudNetRequest::autoLogin(enum UserInfo::LoginMethod)
+2024-06-09 13:53:30 [WARN] void __cdecl ACCloudNetRequest::login(const class QString &,const class QString &,const class QString &,const class QString &,enum UserInfo::LoginMethod)
+username = howard.felix@outlook.com, password = Fuckoff45, country = CN, loginMethod = 0, accountType = 1
+2024-06-09 13:53:30 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:30 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:30 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:30 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:30 [INFO] event:  "updater_init_compeleted" data:  QVariant(Invalid) extentionData:  QVariant(Invalid)
+2024-06-09 13:53:30 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:30 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:30 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:30 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:30 [WARN] void __cdecl ACCloudNetRequest::getCountries(void)
+2024-06-09 13:53:30 [WARN] void __cdecl ACCloudNetRequest::getPrintCtrlCodeReasons(void)
+2024-06-09 13:53:30 [INFO] event:  "accloud_start_init" data:  QVariant(int, 0) extentionData:  QVariant(int, 0)
+2024-06-09 13:53:30 [INFO] parseImportFiles model files: C:\Users\Howar\Desktop\3dprinter\3d\Chars\PC\Barbarian.stl
+2024-06-09 13:53:30 [INFO] parseImportFiles model files: C:\Users\Howar\Desktop\3dprinter\3d\Chars\PC\Barbarian.stl
+2024-06-09 13:53:30 [WARN]  - 1 ImportFilesDialog, importModelFiles file = C:\Users\Howar\Desktop\3dprinter\3d\Chars\PC\Barbarian.stl, modelQualityChecked = true
+2024-06-09 13:53:30 [INFO] "start check autoUpdater!"
+2024-06-09 13:53:30 [WARN] -slot_closeGizmoWhenLoadModel
+2024-06-09 13:53:30 [INFO] event:  "updater_check" data:  QVariant(Invalid) extentionData:  QVariant(Invalid)
+2024-06-09 13:53:30 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:30 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:30 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:30 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:30 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:30 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:30 [WARN] void __cdecl EventMiniHandlerCallback::event(const struct ReasonResponse *,unsigned int)
+2024-06-09 13:53:30 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:31 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:31 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:31 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:31 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:31 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:31 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:31 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:31 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:31 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:31 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:31 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:31 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:31 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:31 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:31 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:31 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:31 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:31 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:31 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:31 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:31 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:31 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:31 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:31 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:31 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:31 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:31 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:31 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:31 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:31 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:31 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:31 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:31 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:31 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:31 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:31 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:31 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:31 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:31 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:31 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:31 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:31 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:31 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:31 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:31 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:31 [INFO] uiState:  false
+2024-06-09 13:53:31 [WARN] enableMenuShortcut menushort cut: 8
+2024-06-09 13:53:31 [WARN] void __cdecl PrintersDataModel::onReasonResponse(const struct ReasonResponse *,int)
+count = 211
+2024-06-09 13:53:31 [INFO] send post data success!
+2024-06-09 13:53:31 [WARN] void __cdecl ACCloudNetRequest::onEvent(struct NetworkRequest::EventData)
+, event.event = 13, status = 0, code = 1, msg = Login successful
+2024-06-09 13:53:31 [WARN] void __cdecl ACCloudNetRequest::onLoginResult(void)
+nickName = AC User 130636
+2024-06-09 13:53:31 [WARN] void __cdecl ACCloudNetRequest::getFileList(const struct FileListRequest *)
+page = 1, limit = 50, fileType = 0, orderby = 1, machine_type = 0, loginStatus = 1
+2024-06-09 13:53:31 [WARN] void __cdecl MyFileListModel::onLoginResult(void)
+2024-06-09 13:53:31 [WARN] void __cdecl PrintersDataModel::onLoginResult(void)
+2024-06-09 13:53:31 [WARN] void __cdecl PrintersDataModel::setupCloudEvent(void)
+m_networkStatus = 1
+2024-06-09 13:53:31 [WARN] void __cdecl ACCloudNetRequest::setupCloudEvent(void), -- 1
+2024-06-09 13:53:31 [WARN] void __cdecl ACCloudNetRequest::setupCloudEvent(void), -- 2
+2024-06-09 13:53:31 [WARN] void __cdecl ACCloudNetRequest::getMessageCount(void)
+2024-06-09 13:53:31 [WARN] void __cdecl ACCloudNetRequest::getMessageList(int,int,int)
+msgtype = 1, pageIndex = 1, pageSize = 1
+2024-06-09 13:53:31 [WARN] void __cdecl CloudMsgNotifyListModel::onLoginResult(void)
+2024-06-09 13:53:31 [WARN] void __cdecl ACCloudGaSupport::doReportLoginResult(const class QString &,const class QString &,const bool &,const class QString &)
+loginType = auto_login, loginMethod = email, isSuccess = 1, failReason = Login successful
+2024-06-09 13:53:31 [WARN] void __cdecl ACCloudManager::onLoginResult(void), nickName = AC User 130636, userId = 142227, doReportLoginResult finish
+2024-06-09 13:53:31 [INFO] sendData:  "{\n    \"appName\": \"AnycubicPhotonWorkshop_V3.3.2\",\n    \"appVersion\": \"v3.3.2\",\n    \"business\": \"\",\n    \"city\": \"0\",\n    \"country\": \"\xE6\xB3\xB0\xE5\x9B\xBD\",\n    \"elementContent\": \"\",\n    \"elementType\": \"\",\n    \"eventName\": \"AppStart\",\n    \"function\": \"\",\n    \"isOverseasVersion\": true,\n    \"module\": \"\",\n    \"pcId\": \"735cdda212f7abd64a6d2f9a62594f1f\",\n    \"printerType\": \"\",\n    \"province\": \"Nakhon-Ratchasima\",\n    \"timestamp\": 1717916011,\n    \"title\": \"\",\n    \"userId\": 142227\n}\n"
+2024-06-09 13:53:31 [INFO] sendData:  "{\n    \"appName\": \"AnycubicPhotonWorkshop_V3.3.2\",\n    \"appVersion\": \"v3.3.2\",\n    \"business\": \"\",\n    \"city\": \"0\",\n    \"country\": \"\xE6\xB3\xB0\xE5\x9B\xBD\",\n    \"elementContent\": \"\",\n    \"elementType\": \"\",\n    \"eventName\": \"LoginResult\",\n    \"function\": \"\",\n    \"isOverseasVersion\": true,\n    \"module\": \"\",\n    \"pcId\": \"735cdda212f7abd64a6d2f9a62594f1f\",\n    \"printerType\": \"\",\n    \"province\": \"Nakhon-Ratchasima\",\n    \"timestamp\": 1717916011,\n    \"title\": \"\",\n    \"userId\": 142227\n}\n"
+2024-06-09 13:53:31 [INFO] uiState:  false
+2024-06-09 13:53:31 [WARN] enableMenuShortcut menushort cut: 136
+2024-06-09 13:53:31 [INFO] uiState:  false
+2024-06-09 13:53:31 [WARN] enableMenuShortcut menushort cut: 128
+2024-06-09 13:53:31 [INFO] "doReportImportModelResult!"
+2024-06-09 13:53:31 [INFO] event:  "ga_report" data:  QVariant(QByteArray, "{\n    \"business\": \"model_prepare\",\n    \"elementContent\": \"Import Files\",\n    \"elementType\": \"BUTTON\",\n    \"event\": \"ImportModelResult\",\n    \"function\": \"import_model\",\n    \"module\": \"menu_bar\",\n    \"printerType\": \"LCD\",\n    \"title\": \"\"\n}\n") extentionData:  QVariant(QByteArray, "{\n    \"importType\": \"4\",\n    \"modelInformation\": [\n        {\n            \"fileName\": \"Barbarian\",\n            \"fileSize\": 47812184,\n            \"fileType\": \"stl\",\n            \"isSuccess\": 0\n        }\n    ],\n    \"numberOfModel\": 1\n}\n")
+2024-06-09 13:53:31 [WARN] gizmo emit sceneModelChanged
+2024-06-09 13:53:31 [INFO] uiState:  false
+2024-06-09 13:53:31 [WARN] enableMenuShortcut menushort cut: 136
+2024-06-09 13:53:31 [INFO] uiState:  false
+2024-06-09 13:53:31 [WARN] enableMenuShortcut menushort cut: 128
+2024-06-09 13:53:31 [INFO] uiState:  false
+2024-06-09 13:53:31 [WARN] enableMenuShortcut menushort cut: 136
+2024-06-09 13:53:31 [INFO] uiState:  false
+2024-06-09 13:53:31 [WARN] enableMenuShortcut menushort cut: 128
+2024-06-09 13:53:31 [INFO] "doReadMachineLcd setMachine Anycubic Photon Mono M5s"
+2024-06-09 13:53:31 [INFO] sendData:  "{\n    \"appName\": \"AnycubicPhotonWorkshop_V3.3.2\",\n    \"appVersion\": \"v3.3.2\",\n    \"business\": \"\",\n    \"city\": \"0\",\n    \"country\": \"\xE6\xB3\xB0\xE5\x9B\xBD\",\n    \"elementContent\": \"\",\n    \"elementType\": \"\",\n    \"eventName\": \"ImportModelResult\",\n    \"function\": \"\",\n    \"isOverseasVersion\": true,\n    \"module\": \"\",\n    \"pcId\": \"735cdda212f7abd64a6d2f9a62594f1f\",\n    \"printerType\": \"\",\n    \"province\": \"Nakhon-Ratchasima\",\n    \"timestamp\": 1717916011,\n    \"title\": \"\",\n    \"userId\": 142227\n}\n"
+2024-06-09 13:53:31 [WARN] ctrl_select IS_PROPERTY_SELECTED1  true 1
+2024-06-09 13:53:31 [INFO] get_model_height() osg_model_group
+2024-06-09 13:53:31 [WARN] void __cdecl EventMiniHandlerCallback::event(const struct ReasonResponse *,unsigned int)
+2024-06-09 13:53:31 [WARN] void __cdecl PrintersDataModel::onReasonResponse(const struct ReasonResponse *,int)
+count = 211
+2024-06-09 13:53:32 [INFO] send post data success!
+2024-06-09 13:53:32 [WARN] void __cdecl EventMiniHandlerCallback::event(const struct MessageCountResponse *,unsigned int)
+2024-06-09 13:53:32 [WARN] void __cdecl CloudMsgNotifyListModel::onMessageCountResponse(const struct MessageCountResponse *,int), count = 3
+2024-06-09 13:53:32 [WARN] void __cdecl EventMiniHandlerCallback::event(const struct MessageListResponse *,unsigned int,unsigned int,unsigned int,unsigned int)
+2024-06-09 13:53:32 [WARN] void __cdecl ACCloudNetRequest::onMessageListResponse(const struct MessageListResponse *,int,int,int,int)
+count = 1, pageIndex = 1, pageSize = 50, countAll = 1
+2024-06-09 13:53:32 [WARN] CloudMsgNotifyListModel::onMessageListResponse, count = 1, pageIndex = 1, pageSize = 50, countAll = 1
+2024-06-09 13:53:32 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:32 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:32 [WARN] MyFileListModel::onFileLists, pageIndex = 1, pageSize = 50, countAll = 6, size = 6
+2024-06-09 13:53:32 [WARN] void __cdecl PrinterEventHandlerCallback::event(const struct Anycubic::Event *)
+2024-06-09 13:53:32 [WARN] void __cdecl PrintersDataModel::onPrinterCommonEvent(const struct Anycubic::Event *)
+code = 0, action = 500, status = 0, type = 20, errMsg = Unknown Reason, state = 
+2024-06-09 13:53:32 [WARN] void __cdecl PrintersDataModel::getListPrinter(void)
+m_printersTableStatus = 0, m_cloudNetRequest->userInfo()->loginStatus() = 0
+2024-06-09 13:53:32 [WARN] void __cdecl ACCloudNetRequest::getListPrinter(void)
+LOGIN_STATUS = 0
+2024-06-09 13:53:32 [INFO] send post data success!
+2024-06-09 13:53:32 [INFO] send post data success!
+2024-06-09 13:53:33 [INFO] uiState:  true
+2024-06-09 13:53:33 [WARN] enableMenuShortcut menushort cut: 0
+2024-06-09 13:53:33 [WARN] void __cdecl PrintersDataModel::onPrinterListEvent(void *,int,void *)
+count = 1
+2024-06-09 13:53:33 [WARN] void __cdecl ACCloudNetRequest::getPrinterDetail(int)
+printerId = 69543
+2024-06-09 13:53:33 [WARN] void __cdecl PrinterEventHandlerCallback::event(const struct Anycubic::Event *)
+2024-06-09 13:53:33 [WARN] void __cdecl PrintersDataModel::onPrinterCommonEvent(const struct Anycubic::Event *)
+code = 0, action = 502, status = 0, type = 20, errMsg = Unknown Reason, state = 
+2024-06-09 13:53:34 [WARN] void __cdecl EventMiniHandlerCallback::event(const struct PrinterDetailResponse *)
+2024-06-09 13:53:34 [WARN] void __cdecl PrintersDataModel::onPrinterDetailResponse(const struct PrinterDetailResponse *)
+detail->name = Anycubic Photon Mono M5s, detail->project.print_status = 0, detail->project.pause = 0, detail->project.project_type = 0, detail->device_status = 2, detail->is_printing = 1
+2024-06-09 13:53:35 [INFO] scene modifyed:  true
+2024-06-09 13:53:35 [WARN] QFSFileEngine::open: No file name specified
+2024-06-09 13:53:35 [WARN] Cannot open file '', because: No file name specified
+2024-06-09 13:53:35 [INFO] uiState:  false
+2024-06-09 13:53:36 [INFO] uiState:  true
+2024-06-09 13:53:36 [INFO] save support file is success!
+2024-06-09 13:53:37 [INFO] AnycubicPhotonWorkshop end!
+2024-06-09 13:53:37 [WARN] QThreadStorage: Thread 0x1b5b5c833d0 exited after QThreadStorage 7 destroyed
+2024-06-09 13:53:37 [ERROR] QEventDispatcherWin32::wakeUp: Failed to post a message (Invalid window handle.)
