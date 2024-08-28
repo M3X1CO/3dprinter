@@ -20449,3 +20449,1218 @@ detail->name = Anycubic Photon Mono M5s, detail->project.print_status = 0, detai
 2024-07-03 10:33:34 [INFO] save support file is success!
 2024-07-03 10:33:36 [INFO] AnycubicPhotonWorkshop end!
 2024-07-03 10:33:36 [WARN] QThreadStorage: Thread 0x289e1c1f540 exited after QThreadStorage 7 destroyed
+2024-07-13 21:43:52 [INFO] AnycubicPhotonWorkshop start!
+2024-07-13 21:43:52 [INFO] argc:  2
+2024-07-13 21:43:52 [WARN] "C:/Program Files/AnycubicPhotonWorkshop"
+2024-07-13 21:43:52 [WARN] Successfully init crashpad
+2024-07-13 21:43:53 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 55 Regular L3" '
+2024-07-13 21:43:53 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 95 ExtraBold" '
+2024-07-13 21:43:53 [INFO] ctk manager plugins:  "C:/Program Files/AnycubicPhotonWorkshop/plugins/"
+2024-07-13 21:43:53 [INFO] Load plugin org.commontk.eventadmin success.
+2024-07-13 21:43:53 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/splashwindow.dll"
+2024-07-13 21:43:53 [INFO] Install Plugin Success!
+2024-07-13 21:43:53 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 55 Regular L3" '
+2024-07-13 21:43:53 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 95 ExtraBold" '
+2024-07-13 21:43:53 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/printer.dll"
+2024-07-13 21:43:53 [INFO] Install Plugin Success!
+2024-07-13 21:43:53 [FATAL] readDataFromFile (C:/Program Files/AnycubicPhotonWorkshop/machine_type/Anycubic Photon Mono M7.pwsp) is error.
+2024-07-13 21:43:53 [FATAL] loadFactoryMachine factory market Anycubic Photon Mono M7 msg retcode -1, msg retmsg: 
+2024-07-13 21:43:53 [WARN] loadMachineResin currentPrinter(Anycubic Photon Mono M5s) init success.
+2024-07-13 21:43:53 [INFO] loadMachineParamRange is success.
+2024-07-13 21:43:53 [INFO] loadMachineResinType is success.
+2024-07-13 21:43:53 [INFO] loadMachineResinName is success.
+2024-07-13 21:43:53 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/mainwindow.dll"
+2024-07-13 21:43:53 [INFO] Install Plugin Success!
+2024-07-13 21:43:53 [INFO] "current server is testserver. 0"
+2024-07-13 21:43:53 [INFO] QVariant(QByteArray, "mqtt.anycubic.com")
+2024-07-13 21:43:53 [INFO] QVariant(QByteArray, "mqtt-universe.anycubic.com")
+2024-07-13 21:43:53 [INFO] QVariant(QByteArray, "8883")
+2024-07-13 21:43:53 [INFO] QVariant(QByteArray, "8883")
+2024-07-13 21:43:53 [INFO] "environment_url is https://workbentch.s3.us-east-2.amazonaws.com/workshop/environment.ini"
+2024-07-13 21:43:54 [INFO] QmlFactory 0.077 s
+2024-07-13 21:43:54 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/autoupdater.dll"
+2024-07-13 21:43:54 [INFO] Install Plugin Success!
+2024-07-13 21:43:54 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/gareport.dll"
+2024-07-13 21:43:54 [INFO] Install Plugin Success!
+2024-07-13 21:43:54 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/accloud.dll"
+2024-07-13 21:43:54 [INFO] Install Plugin Success!
+2024-07-13 21:43:54 [WARN] void __cdecl ACCloudNetRequest::init(void), cn_server = mqtt.anycubic.com, cn_server_port = 8883, en_server = mqtt-universe.anycubic.com, en_server_port = 8883, url = https://cloud-universe.anycubic.com/p/p/workbench/api
+2024-07-13 21:43:54 [WARN] CountriesDataModel::setCurrCountryIdn, newCurrCountryIdn = CN
+2024-07-13 21:43:54 [WARN] void __cdecl ACCloudNetRequest::getCountries(void)
+2024-07-13 21:43:54 [WARN] void __cdecl ACCloudNetRequest::getPrintCtrlCodeReasons(void)
+2024-07-13 21:43:54 [WARN] ACCloudManager::ACCloudManager, cloud model, build_time = 2024-04-26 17:28:45, git_brance = feat/casdoor, git_hash = 6b20758, git_commit = 2024-04-26
+2024-07-13 21:43:54 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/facegen.dll"
+2024-07-13 21:43:54 [INFO] Install Plugin Success!
+2024-07-13 21:43:54 [WARN] Translation::changedSystemLanguage, language = 0
+2024-07-13 21:43:54 [WARN] register  GizmoController
+2024-07-13 21:43:55 [WARN] enableMenuShortcut menushort cut: 0
+2024-07-13 21:43:55 [INFO] uiState:  false
+2024-07-13 21:43:55 [WARN] enableMenuShortcut menushort cut: 0
+2024-07-13 21:43:55 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:55 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:55 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:55 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:55 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:55 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:55 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:55 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:55 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:55 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:55 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:55 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:55 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:55 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:55 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:55 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:55 [WARN] xChanged 1
+2024-07-13 21:43:55 [INFO] event:  "splash_window_visible" data:  QVariant(bool, false) extentionData:  QVariant(Invalid)
+2024-07-13 21:43:55 [INFO] event:  "main_load" data:  QVariant(Invalid) extentionData:  QVariant(Invalid)
+2024-07-13 21:43:55 [INFO] event:  "main_language_changed" data:  QVariant(int, 0) extentionData:  QVariant(Invalid)
+2024-07-13 21:43:55 [INFO] uiState:  true
+2024-07-13 21:43:55 [WARN] creating renderer
+2024-07-13 21:43:55 [WARN] printer valid --:  109.44 61.44
+2024-07-13 21:43:55 [WARN] printer build --:  109.44 61.44
+2024-07-13 21:43:55 [WARN] deltaX -- :  0
+2024-07-13 21:43:55 [WARN] deltaY -- :  0
+2024-07-13 21:43:55 [WARN] machine boarder width 2-------------------- 
+2024-07-13 21:43:55 [WARN] create planar shadow node
+2024-07-13 21:43:55 [WARN] loadGizmoRotationHead OK 576
+2024-07-13 21:43:55 [INFO]  camera_manipulator::home
+2024-07-13 21:43:55 [INFO]  camera_manipulator::home/ComputeBound
+2024-07-13 21:43:55 [INFO]  camera_manipulator::home
+2024-07-13 21:43:55 [INFO]  camera_manipulator::home/ComputeBound
+2024-07-13 21:43:55 [INFO]  camera_manipulator::home/BoundingSphere
+2024-07-13 21:43:55 [INFO]  camera_manipulator::home/udpate_view
+2024-07-13 21:43:55 [WARN] GL Verison:  0x1ee16cd00a8
+2024-07-13 21:43:55 [WARN] GL Renderer:  0x1ee16d27b1c
+2024-07-13 21:43:55 [WARN] compile shader program ok
+2024-07-13 21:43:55 [WARN] compile shader program ok
+2024-07-13 21:43:55 [WARN] compile shader program ok
+2024-07-13 21:43:55 [WARN] AnyGizmos::Im3d_Init      LoadCompileShader Ok
+2024-07-13 21:43:55 [WARN] AnyGizmos::Im3d_Init   VAO release Ok
+2024-07-13 21:43:55 [WARN] void __cdecl ACCloudNetRequest::autoLogin(enum UserInfo::LoginMethod)
+2024-07-13 21:43:55 [WARN] void __cdecl ACCloudNetRequest::login(const class QString &,const class QString &,const class QString &,const class QString &,enum UserInfo::LoginMethod)
+username = howard.felix@outlook.com, password = Fuckoff45, country = CN, loginMethod = 0, accountType = 1
+2024-07-13 21:43:55 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:55 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:55 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:55 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:55 [INFO] event:  "updater_init_compeleted" data:  QVariant(Invalid) extentionData:  QVariant(Invalid)
+2024-07-13 21:43:56 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:56 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:56 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:56 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:56 [WARN] void __cdecl ACCloudNetRequest::getCountries(void)
+2024-07-13 21:43:56 [WARN] void __cdecl ACCloudNetRequest::getPrintCtrlCodeReasons(void)
+2024-07-13 21:43:56 [INFO] event:  "accloud_start_init" data:  QVariant(int, 0) extentionData:  QVariant(int, 0)
+2024-07-13 21:43:56 [INFO] parseImportFiles model files: C:\Users\Howar\Desktop\3dprinter\3d\Dragon\White_Dragon_Ancient_Updated.stl
+2024-07-13 21:43:56 [INFO] parseImportFiles model files: C:\Users\Howar\Desktop\3dprinter\3d\Dragon\White_Dragon_Ancient_Updated.stl
+2024-07-13 21:43:56 [WARN]  - 1 ImportFilesDialog, importModelFiles file = C:\Users\Howar\Desktop\3dprinter\3d\Dragon\White_Dragon_Ancient_Updated.stl, modelQualityChecked = true
+2024-07-13 21:43:56 [INFO] "start check autoUpdater!"
+2024-07-13 21:43:56 [WARN] -slot_closeGizmoWhenLoadModel
+2024-07-13 21:43:56 [INFO] event:  "updater_check" data:  QVariant(Invalid) extentionData:  QVariant(Invalid)
+2024-07-13 21:43:56 [INFO] send post data success!
+2024-07-13 21:43:56 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:56 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:56 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:56 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:56 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:56 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:56 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:56 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:56 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:56 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:56 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:56 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:56 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:56 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:56 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:56 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:56 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:56 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:56 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:56 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:56 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:56 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:56 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:56 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:56 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:56 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:56 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:56 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:56 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:56 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:56 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:56 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:56 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:56 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:56 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:56 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:56 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:56 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:56 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:56 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:56 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:56 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:56 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:56 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:56 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:56 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:56 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:56 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:56 [WARN] void __cdecl EventMiniHandlerCallback::event(const struct ReasonResponse *,unsigned int)
+2024-07-13 21:43:56 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:56 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:56 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:56 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:56 [INFO] uiState:  false
+2024-07-13 21:43:56 [WARN] enableMenuShortcut menushort cut: 8
+2024-07-13 21:43:56 [WARN] void __cdecl PrintersDataModel::onReasonResponse(const struct ReasonResponse *,int)
+count = 219
+2024-07-13 21:43:56 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:56 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:56 [INFO] uiState:  false
+2024-07-13 21:43:56 [WARN] enableMenuShortcut menushort cut: 264
+2024-07-13 21:43:56 [INFO] uiState:  false
+2024-07-13 21:43:56 [WARN] enableMenuShortcut menushort cut: 256
+2024-07-13 21:43:57 [INFO] "doReportImportModelResult!"
+2024-07-13 21:43:57 [INFO] event:  "ga_report" data:  QVariant(QByteArray, "{\n    \"business\": \"model_prepare\",\n    \"elementContent\": \"Import Files\",\n    \"elementType\": \"BUTTON\",\n    \"event\": \"ImportModelResult\",\n    \"function\": \"import_model\",\n    \"module\": \"menu_bar\",\n    \"printerType\": \"LCD\",\n    \"title\": \"\"\n}\n") extentionData:  QVariant(QByteArray, "{\n    \"importType\": \"4\",\n    \"modelInformation\": [\n        {\n            \"fileName\": \"White_Dragon_Ancient_Updated\",\n            \"fileSize\": 32601784,\n            \"fileType\": \"stl\",\n            \"isSuccess\": 0\n        }\n    ],\n    \"numberOfModel\": 1\n}\n")
+2024-07-13 21:43:57 [WARN] gizmo emit sceneModelChanged
+2024-07-13 21:43:57 [INFO] uiState:  false
+2024-07-13 21:43:57 [WARN] enableMenuShortcut menushort cut: 264
+2024-07-13 21:43:57 [INFO] uiState:  false
+2024-07-13 21:43:57 [WARN] enableMenuShortcut menushort cut: 256
+2024-07-13 21:43:57 [INFO] uiState:  false
+2024-07-13 21:43:57 [WARN] enableMenuShortcut menushort cut: 264
+2024-07-13 21:43:57 [INFO] uiState:  false
+2024-07-13 21:43:57 [WARN] enableMenuShortcut menushort cut: 256
+2024-07-13 21:43:57 [WARN] ctrl_select IS_PROPERTY_SELECTED1  true 1
+2024-07-13 21:43:57 [INFO] "doReadMachineLcd setMachine Anycubic Photon Mono M5s"
+2024-07-13 21:43:57 [INFO] sendData:  "{\n    \"appName\": \"AnycubicPhotonWorkshop_V3.3.2\",\n    \"appVersion\": \"v3.3.2\",\n    \"business\": \"\",\n    \"city\": \"\xE6\x9B\xBC\xE8\xB0\xB7\",\n    \"country\": \"\xE6\xB3\xB0\xE5\x9B\xBD\",\n    \"elementContent\": \"\",\n    \"elementType\": \"\",\n    \"eventName\": \"ImportModelResult\",\n    \"function\": \"\",\n    \"isOverseasVersion\": true,\n    \"module\": \"\",\n    \"pcId\": \"735cdda212f7abd64a6d2f9a62594f1f\",\n    \"printerType\": \"\",\n    \"province\": \"\xE6\x9B\xBC\xE8\xB0\xB7\",\n    \"timestamp\": 1720881837,\n    \"title\": \"\",\n    \"userId\": 0\n}\n"
+2024-07-13 21:43:57 [INFO] get_model_height() osg_model_group
+2024-07-13 21:43:57 [WARN] void __cdecl ACCloudNetRequest::onEvent(struct NetworkRequest::EventData)
+, event.event = 13, status = 0, code = 1, msg = Login successful
+2024-07-13 21:43:57 [WARN] void __cdecl ACCloudNetRequest::onLoginResult(void)
+nickName = AC User 130636
+2024-07-13 21:43:57 [WARN] void __cdecl ACCloudNetRequest::getFileList(const struct FileListRequest *)
+page = 1, limit = 50, fileType = 0, orderby = 1, machine_type = 0, loginStatus = 1
+2024-07-13 21:43:57 [WARN] void __cdecl MyFileListModel::onLoginResult(void)
+2024-07-13 21:43:57 [WARN] void __cdecl PrintersDataModel::onLoginResult(void)
+2024-07-13 21:43:57 [WARN] void __cdecl PrintersDataModel::setupCloudEvent(void)
+m_networkStatus = 1
+2024-07-13 21:43:57 [WARN] void __cdecl ACCloudNetRequest::setupCloudEvent(void), -- 1
+2024-07-13 21:43:57 [WARN] void __cdecl ACCloudNetRequest::setupCloudEvent(void), -- 2
+2024-07-13 21:43:57 [WARN] void __cdecl ACCloudNetRequest::getMessageCount(void)
+2024-07-13 21:43:57 [WARN] void __cdecl ACCloudNetRequest::getMessageList(int,int,int)
+msgtype = 1, pageIndex = 1, pageSize = 1
+2024-07-13 21:43:57 [WARN] void __cdecl CloudMsgNotifyListModel::onLoginResult(void)
+2024-07-13 21:43:57 [WARN] void __cdecl ACCloudGaSupport::doReportLoginResult(const class QString &,const class QString &,const bool &,const class QString &)
+loginType = auto_login, loginMethod = email, isSuccess = 1, failReason = Login successful
+2024-07-13 21:43:57 [WARN] void __cdecl ACCloudManager::onLoginResult(void), nickName = AC User 130636, userId = 142227, doReportLoginResult finish
+2024-07-13 21:43:57 [INFO] sendData:  "{\n    \"appName\": \"AnycubicPhotonWorkshop_V3.3.2\",\n    \"appVersion\": \"v3.3.2\",\n    \"business\": \"\",\n    \"city\": \"\xE6\x9B\xBC\xE8\xB0\xB7\",\n    \"country\": \"\xE6\xB3\xB0\xE5\x9B\xBD\",\n    \"elementContent\": \"\",\n    \"elementType\": \"\",\n    \"eventName\": \"AppStart\",\n    \"function\": \"\",\n    \"isOverseasVersion\": true,\n    \"module\": \"\",\n    \"pcId\": \"735cdda212f7abd64a6d2f9a62594f1f\",\n    \"printerType\": \"\",\n    \"province\": \"\xE6\x9B\xBC\xE8\xB0\xB7\",\n    \"timestamp\": 1720881837,\n    \"title\": \"\",\n    \"userId\": 142227\n}\n"
+2024-07-13 21:43:57 [INFO] sendData:  "{\n    \"appName\": \"AnycubicPhotonWorkshop_V3.3.2\",\n    \"appVersion\": \"v3.3.2\",\n    \"business\": \"\",\n    \"city\": \"\xE6\x9B\xBC\xE8\xB0\xB7\",\n    \"country\": \"\xE6\xB3\xB0\xE5\x9B\xBD\",\n    \"elementContent\": \"\",\n    \"elementType\": \"\",\n    \"eventName\": \"LoginResult\",\n    \"function\": \"\",\n    \"isOverseasVersion\": true,\n    \"module\": \"\",\n    \"pcId\": \"735cdda212f7abd64a6d2f9a62594f1f\",\n    \"printerType\": \"\",\n    \"province\": \"\xE6\x9B\xBC\xE8\xB0\xB7\",\n    \"timestamp\": 1720881837,\n    \"title\": \"\",\n    \"userId\": 142227\n}\n"
+2024-07-13 21:43:58 [INFO] send post data success!
+2024-07-13 21:43:58 [WARN] void __cdecl EventMiniHandlerCallback::event(const struct ReasonResponse *,unsigned int)
+2024-07-13 21:43:58 [WARN] void __cdecl PrintersDataModel::onReasonResponse(const struct ReasonResponse *,int)
+count = 219
+2024-07-13 21:43:58 [INFO] send post data success!
+2024-07-13 21:43:58 [INFO] uiState:  false
+2024-07-13 21:43:58 [WARN] void __cdecl PrinterEventHandlerCallback::event(const struct Anycubic::Event *)
+2024-07-13 21:43:58 [WARN] void __cdecl PrintersDataModel::onPrinterCommonEvent(const struct Anycubic::Event *)
+code = 0, action = 500, status = 0, type = 20, errMsg = Unknown Reason, state = 
+2024-07-13 21:43:58 [WARN] void __cdecl PrintersDataModel::getListPrinter(void)
+m_printersTableStatus = 0, m_cloudNetRequest->userInfo()->loginStatus() = 0
+2024-07-13 21:43:58 [WARN] void __cdecl ACCloudNetRequest::getListPrinter(void)
+LOGIN_STATUS = 0
+2024-07-13 21:43:59 [WARN] void __cdecl EventMiniHandlerCallback::event(const struct MessageListResponse *,unsigned int,unsigned int,unsigned int,unsigned int)
+2024-07-13 21:43:59 [WARN] void __cdecl ACCloudNetRequest::onMessageListResponse(const struct MessageListResponse *,int,int,int,int)
+count = 6, pageIndex = 1, pageSize = 50, countAll = 6
+2024-07-13 21:43:59 [WARN] CloudMsgNotifyListModel::onMessageListResponse, count = 6, pageIndex = 1, pageSize = 50, countAll = 6
+2024-07-13 21:43:59 [WARN] void __cdecl EventMiniHandlerCallback::event(const struct MessageCountResponse *,unsigned int)
+2024-07-13 21:43:59 [WARN] void __cdecl CloudMsgNotifyListModel::onMessageCountResponse(const struct MessageCountResponse *,int), count = 3
+2024-07-13 21:43:59 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:59 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:59 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:59 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:59 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:59 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:59 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:43:59 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:43:59 [WARN] MyFileListModel::onFileLists, pageIndex = 1, pageSize = 50, countAll = 7, size = 7
+2024-07-13 21:43:59 [INFO] send post data success!
+2024-07-13 21:43:59 [WARN] void __cdecl PrintersDataModel::onPrinterListEvent(void *,int,void *)
+count = 1
+2024-07-13 21:43:59 [WARN] void __cdecl ACCloudNetRequest::getPrinterDetail(int)
+printerId = 69543
+2024-07-13 21:44:00 [WARN] void __cdecl PrinterEventHandlerCallback::event(const struct Anycubic::Event *)
+2024-07-13 21:44:00 [WARN] void __cdecl PrintersDataModel::onPrinterCommonEvent(const struct Anycubic::Event *)
+code = 0, action = 502, status = 0, type = 20, errMsg = Unknown Reason, state = 
+2024-07-13 21:44:00 [WARN] void __cdecl EventMiniHandlerCallback::event(const struct PrinterDetailResponse *)
+2024-07-13 21:44:00 [WARN] void __cdecl PrintersDataModel::onPrinterDetailResponse(const struct PrinterDetailResponse *)
+detail->name = Anycubic Photon Mono M5s, detail->project.print_status = 0, detail->project.pause = 0, detail->project.project_type = 0, detail->device_status = 2, detail->is_printing = 1
+2024-07-13 21:44:01 [INFO] uiState:  false
+2024-07-13 21:44:03 [WARN] in 555555555555555555555555555555555555555555555555555555555555  0 White_Dragon_Ancient_Updated.stl_matrixTransform
+2024-07-13 21:44:03 [WARN] ccccccccc:  229.628 , 152.288 , 181.2
+2024-07-13 21:44:03 [WARN] eeeeeeeee:  229.628 , 152.288 , 181.2
+2024-07-13 21:44:03 [INFO] uiState:  true
+2024-07-13 21:44:03 [WARN] enableMenuShortcut menushort cut: 0
+2024-07-13 21:44:20 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:20 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:20 [INFO] uiState:  false
+2024-07-13 21:44:24 [INFO] uiState:  true
+2024-07-13 21:44:24 [INFO] event:  "updater_save_software" data:  QVariant(Invalid) extentionData:  QVariant(Invalid)
+2024-07-13 21:44:24 [INFO] scene modifyed:  true
+2024-07-13 21:44:24 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:24 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:24 [INFO] uiState:  false
+2024-07-13 21:44:30 [INFO] uiState:  true
+2024-07-13 21:44:30 [INFO] "install program autoupdater!"
+2024-07-13 21:44:30 [INFO] event:  "updater_install_program" data:  QVariant(Invalid) extentionData:  QVariant(Invalid)
+2024-07-13 21:44:31 [INFO] event:  "main_quit" data:  QVariant(bool, false) extentionData:  QVariant(Invalid)
+2024-07-13 21:44:31 [INFO] save support file is success!
+2024-07-13 21:44:31 [WARN] qrc:/qml/AutoUpdaterComponent/SoftUpdateWindow.qml:66: TypeError: Cannot read property 'left' of undefined
+2024-07-13 21:44:31 [WARN] qrc:/qml/AutoUpdaterComponent/SoftUpdateWindow.qml:67: TypeError: Cannot read property 'bottom' of undefined
+2024-07-13 21:44:31 [WARN] qrc:/qml/AutoUpdaterComponent/SoftUpdateWindow.qml:38: TypeError: Cannot read property 'left' of undefined
+2024-07-13 21:44:31 [WARN] qrc:/qml/AutoUpdaterComponent/SoftUpdateWindow.qml:39: TypeError: Cannot read property 'top' of undefined
+2024-07-13 21:44:31 [WARN] qrc:/qml/AutoUpdaterComponent/SoftUpdateWindow.qml:54: TypeError: Cannot read property 'right' of undefined
+2024-07-13 21:44:31 [WARN] qrc:/qml/AutoUpdaterComponent/SoftUpdateWindow.qml:72: TypeError: Cannot read property 'right' of undefined
+2024-07-13 21:44:31 [WARN] qrc:/qml/AutoUpdaterComponent/SoftUpdateWindow.qml:73: TypeError: Cannot read property 'verticalCenter' of undefined
+2024-07-13 21:44:31 [WARN] qrc:/qml/AutoUpdaterComponent/SoftUpdateWindow.qml:84: TypeError: Cannot read property 'verticalCenter' of undefined
+2024-07-13 21:44:32 [INFO] AnycubicPhotonWorkshop end!
+2024-07-13 21:44:32 [WARN] QThreadStorage: Thread 0x1ee7e0feb30 exited after QThreadStorage 7 destroyed
+2024-07-13 21:44:41 [INFO] AnycubicPhotonWorkshop start!
+2024-07-13 21:44:41 [INFO] argc:  2
+2024-07-13 21:44:41 [WARN] "C:/Program Files/AnycubicPhotonWorkshop"
+2024-07-13 21:44:41 [WARN] Successfully init crashpad
+2024-07-13 21:44:41 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 55 Regular L3" '
+2024-07-13 21:44:41 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 95 ExtraBold" '
+2024-07-13 21:44:41 [INFO] ctk manager plugins:  "C:/Program Files/AnycubicPhotonWorkshop/plugins/"
+2024-07-13 21:44:41 [INFO] Load plugin org.commontk.eventadmin success.
+2024-07-13 21:44:41 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/splashwindow.dll"
+2024-07-13 21:44:41 [INFO] Install Plugin Success!
+2024-07-13 21:44:41 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 55 Regular L3" '
+2024-07-13 21:44:41 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 95 ExtraBold" '
+2024-07-13 21:44:41 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/printer.dll"
+2024-07-13 21:44:41 [INFO] Install Plugin Success!
+2024-07-13 21:44:41 [FATAL] readDataFromFile (C:/Program Files/AnycubicPhotonWorkshop/machine_type/Anycubic Photon Mono M7.pwsp) is error.
+2024-07-13 21:44:41 [FATAL] loadFactoryMachine factory market Anycubic Photon Mono M7 msg retcode -1, msg retmsg: 
+2024-07-13 21:44:42 [WARN] loadMachineResin currentPrinter(Anycubic Photon Mono M5s) init success.
+2024-07-13 21:44:42 [INFO] loadMachineParamRange is success.
+2024-07-13 21:44:42 [INFO] loadMachineResinType is success.
+2024-07-13 21:44:42 [INFO] loadMachineResinName is success.
+2024-07-13 21:44:42 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/mainwindow.dll"
+2024-07-13 21:44:42 [INFO] Install Plugin Success!
+2024-07-13 21:44:42 [INFO] "current server is testserver. 0"
+2024-07-13 21:44:42 [INFO] QVariant(QByteArray, "mqtt.anycubic.com")
+2024-07-13 21:44:42 [INFO] QVariant(QByteArray, "mqtt-universe.anycubic.com")
+2024-07-13 21:44:42 [INFO] QVariant(QByteArray, "8883")
+2024-07-13 21:44:42 [INFO] QVariant(QByteArray, "8883")
+2024-07-13 21:44:42 [INFO] "environment_url is https://workbentch.s3.us-east-2.amazonaws.com/workshop/environment.ini"
+2024-07-13 21:44:42 [INFO] QmlFactory 0.062 s
+2024-07-13 21:44:42 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/autoupdater.dll"
+2024-07-13 21:44:42 [INFO] Install Plugin Success!
+2024-07-13 21:44:42 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/gareport.dll"
+2024-07-13 21:44:42 [INFO] Install Plugin Success!
+2024-07-13 21:44:42 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/accloud.dll"
+2024-07-13 21:44:42 [INFO] Install Plugin Success!
+2024-07-13 21:44:42 [WARN] void __cdecl ACCloudNetRequest::init(void), cn_server = mqtt.anycubic.com, cn_server_port = 8883, en_server = mqtt-universe.anycubic.com, en_server_port = 8883, url = https://cloud-universe.anycubic.com/p/p/workbench/api
+2024-07-13 21:44:42 [WARN] CountriesDataModel::setCurrCountryIdn, newCurrCountryIdn = CN
+2024-07-13 21:44:42 [WARN] void __cdecl ACCloudNetRequest::getCountries(void)
+2024-07-13 21:44:42 [WARN] void __cdecl ACCloudNetRequest::getPrintCtrlCodeReasons(void)
+2024-07-13 21:44:42 [WARN] ACCloudManager::ACCloudManager, cloud model, build_time = 2024-04-26 17:28:45, git_brance = feat/casdoor, git_hash = 6b20758, git_commit = 2024-04-26
+2024-07-13 21:44:42 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/facegen.dll"
+2024-07-13 21:44:42 [INFO] Install Plugin Success!
+2024-07-13 21:44:42 [WARN] Translation::changedSystemLanguage, language = 0
+2024-07-13 21:44:42 [WARN] register  GizmoController
+2024-07-13 21:44:43 [WARN] enableMenuShortcut menushort cut: 0
+2024-07-13 21:44:43 [INFO] uiState:  false
+2024-07-13 21:44:43 [WARN] enableMenuShortcut menushort cut: 0
+2024-07-13 21:44:43 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:43 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:43 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:43 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:43 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:43 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:43 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:43 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:43 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:43 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:43 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:43 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:43 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:43 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:43 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:43 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:43 [WARN] xChanged 1
+2024-07-13 21:44:43 [INFO] event:  "splash_window_visible" data:  QVariant(bool, false) extentionData:  QVariant(Invalid)
+2024-07-13 21:44:43 [INFO] event:  "main_load" data:  QVariant(Invalid) extentionData:  QVariant(Invalid)
+2024-07-13 21:44:43 [INFO] event:  "main_language_changed" data:  QVariant(int, 0) extentionData:  QVariant(Invalid)
+2024-07-13 21:44:43 [INFO] uiState:  true
+2024-07-13 21:44:43 [WARN] creating renderer
+2024-07-13 21:44:43 [WARN] printer valid --:  109.44 61.44
+2024-07-13 21:44:43 [WARN] printer build --:  109.44 61.44
+2024-07-13 21:44:43 [WARN] deltaX -- :  0
+2024-07-13 21:44:43 [WARN] deltaY -- :  0
+2024-07-13 21:44:43 [WARN] machine boarder width 2-------------------- 
+2024-07-13 21:44:43 [WARN] create planar shadow node
+2024-07-13 21:44:43 [WARN] loadGizmoRotationHead OK 576
+2024-07-13 21:44:43 [INFO]  camera_manipulator::home
+2024-07-13 21:44:43 [INFO]  camera_manipulator::home/ComputeBound
+2024-07-13 21:44:43 [INFO]  camera_manipulator::home
+2024-07-13 21:44:43 [INFO]  camera_manipulator::home/ComputeBound
+2024-07-13 21:44:43 [INFO]  camera_manipulator::home/BoundingSphere
+2024-07-13 21:44:43 [INFO]  camera_manipulator::home/udpate_view
+2024-07-13 21:44:43 [WARN] GL Verison:  0x27179ed00a8
+2024-07-13 21:44:43 [WARN] GL Renderer:  0x27179f27b1c
+2024-07-13 21:44:43 [WARN] compile shader program ok
+2024-07-13 21:44:43 [WARN] compile shader program ok
+2024-07-13 21:44:43 [WARN] compile shader program ok
+2024-07-13 21:44:43 [WARN] AnyGizmos::Im3d_Init      LoadCompileShader Ok
+2024-07-13 21:44:43 [WARN] AnyGizmos::Im3d_Init   VAO release Ok
+2024-07-13 21:44:43 [WARN] void __cdecl ACCloudNetRequest::autoLogin(enum UserInfo::LoginMethod)
+2024-07-13 21:44:43 [WARN] void __cdecl ACCloudNetRequest::login(const class QString &,const class QString &,const class QString &,const class QString &,enum UserInfo::LoginMethod)
+username = howard.felix@outlook.com, password = Fuckoff45, country = CN, loginMethod = 0, accountType = 1
+2024-07-13 21:44:43 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:43 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:43 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:43 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:43 [INFO] event:  "updater_init_compeleted" data:  QVariant(Invalid) extentionData:  QVariant(Invalid)
+2024-07-13 21:44:43 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:43 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:43 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:43 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:43 [WARN] void __cdecl ACCloudNetRequest::getCountries(void)
+2024-07-13 21:44:43 [WARN] void __cdecl ACCloudNetRequest::getPrintCtrlCodeReasons(void)
+2024-07-13 21:44:43 [INFO] event:  "accloud_start_init" data:  QVariant(int, 0) extentionData:  QVariant(int, 0)
+2024-07-13 21:44:43 [INFO] parseImportFiles model files: C:\Users\Howar\Desktop\3dprinter\3d\Dragon\White_Dragon_Ancient_Updated.stl
+2024-07-13 21:44:43 [INFO] parseImportFiles model files: C:\Users\Howar\Desktop\3dprinter\3d\Dragon\White_Dragon_Ancient_Updated.stl
+2024-07-13 21:44:43 [WARN]  - 1 ImportFilesDialog, importModelFiles file = C:\Users\Howar\Desktop\3dprinter\3d\Dragon\White_Dragon_Ancient_Updated.stl, modelQualityChecked = true
+2024-07-13 21:44:43 [INFO] "start check autoUpdater!"
+2024-07-13 21:44:43 [WARN] -slot_closeGizmoWhenLoadModel
+2024-07-13 21:44:43 [INFO] event:  "updater_check" data:  QVariant(Invalid) extentionData:  QVariant(Invalid)
+2024-07-13 21:44:44 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:44 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:44 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:44 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:44 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:44 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:44 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:44 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:44 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:44 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:44 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:44 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:44 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:44 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:44 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:44 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:44 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:44 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:44 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:44 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:44 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:44 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:44 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:44 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:44 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:44 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:44 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:44 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:44 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:44 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:44 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:44 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:44 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:44 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:44 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:44 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:44 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:44 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:44 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:44 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:44 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:44 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:44 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:44 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:44 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:44 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:44 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:44 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:44 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:44 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:44 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:44 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:44 [INFO] uiState:  false
+2024-07-13 21:44:44 [WARN] enableMenuShortcut menushort cut: 8
+2024-07-13 21:44:44 [WARN] void __cdecl EventMiniHandlerCallback::event(const struct ReasonResponse *,unsigned int)
+2024-07-13 21:44:44 [WARN] void __cdecl ACCloudNetRequest::onEvent(struct NetworkRequest::EventData)
+, event.event = 13, status = 0, code = 1, msg = Login successful
+2024-07-13 21:44:44 [WARN] void __cdecl ACCloudNetRequest::onLoginResult(void)
+nickName = AC User 130636
+2024-07-13 21:44:44 [WARN] void __cdecl ACCloudNetRequest::getFileList(const struct FileListRequest *)
+page = 1, limit = 50, fileType = 0, orderby = 1, machine_type = 0, loginStatus = 1
+2024-07-13 21:44:44 [WARN] void __cdecl MyFileListModel::onLoginResult(void)
+2024-07-13 21:44:44 [WARN] void __cdecl PrintersDataModel::onLoginResult(void)
+2024-07-13 21:44:44 [WARN] void __cdecl PrintersDataModel::setupCloudEvent(void)
+m_networkStatus = 1
+2024-07-13 21:44:44 [WARN] void __cdecl ACCloudNetRequest::setupCloudEvent(void), -- 1
+2024-07-13 21:44:44 [WARN] void __cdecl ACCloudNetRequest::setupCloudEvent(void), -- 2
+2024-07-13 21:44:44 [WARN] void __cdecl ACCloudNetRequest::getMessageCount(void)
+2024-07-13 21:44:44 [WARN] void __cdecl ACCloudNetRequest::getMessageList(int,int,int)
+msgtype = 1, pageIndex = 1, pageSize = 1
+2024-07-13 21:44:44 [WARN] void __cdecl CloudMsgNotifyListModel::onLoginResult(void)
+2024-07-13 21:44:44 [WARN] void __cdecl ACCloudGaSupport::doReportLoginResult(const class QString &,const class QString &,const bool &,const class QString &)
+loginType = auto_login, loginMethod = email, isSuccess = 1, failReason = Login successful
+2024-07-13 21:44:44 [WARN] void __cdecl ACCloudManager::onLoginResult(void), nickName = AC User 130636, userId = 142227, doReportLoginResult finish
+2024-07-13 21:44:44 [WARN] void __cdecl PrintersDataModel::onReasonResponse(const struct ReasonResponse *,int)
+count = 219
+2024-07-13 21:44:44 [INFO] send post data success!
+2024-07-13 21:44:44 [INFO] sendData:  "{\n    \"appName\": \"AnycubicPhotonWorkshop_V3.3.2\",\n    \"appVersion\": \"v3.3.2\",\n    \"business\": \"\",\n    \"city\": \"\xE6\x9B\xBC\xE8\xB0\xB7\",\n    \"country\": \"\xE6\xB3\xB0\xE5\x9B\xBD\",\n    \"elementContent\": \"\",\n    \"elementType\": \"\",\n    \"eventName\": \"AppStart\",\n    \"function\": \"\",\n    \"isOverseasVersion\": true,\n    \"module\": \"\",\n    \"pcId\": \"735cdda212f7abd64a6d2f9a62594f1f\",\n    \"printerType\": \"\",\n    \"province\": \"\xE6\x9B\xBC\xE8\xB0\xB7\",\n    \"timestamp\": 1720881884,\n    \"title\": \"\",\n    \"userId\": 142227\n}\n"
+2024-07-13 21:44:44 [INFO] sendData:  "{\n    \"appName\": \"AnycubicPhotonWorkshop_V3.3.2\",\n    \"appVersion\": \"v3.3.2\",\n    \"business\": \"\",\n    \"city\": \"\xE6\x9B\xBC\xE8\xB0\xB7\",\n    \"country\": \"\xE6\xB3\xB0\xE5\x9B\xBD\",\n    \"elementContent\": \"\",\n    \"elementType\": \"\",\n    \"eventName\": \"LoginResult\",\n    \"function\": \"\",\n    \"isOverseasVersion\": true,\n    \"module\": \"\",\n    \"pcId\": \"735cdda212f7abd64a6d2f9a62594f1f\",\n    \"printerType\": \"\",\n    \"province\": \"\xE6\x9B\xBC\xE8\xB0\xB7\",\n    \"timestamp\": 1720881884,\n    \"title\": \"\",\n    \"userId\": 142227\n}\n"
+2024-07-13 21:44:44 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:44 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:44 [INFO] uiState:  false
+2024-07-13 21:44:44 [WARN] enableMenuShortcut menushort cut: 264
+2024-07-13 21:44:44 [INFO] uiState:  false
+2024-07-13 21:44:44 [WARN] enableMenuShortcut menushort cut: 256
+2024-07-13 21:44:44 [INFO] "doReportImportModelResult!"
+2024-07-13 21:44:44 [INFO] event:  "ga_report" data:  QVariant(QByteArray, "{\n    \"business\": \"model_prepare\",\n    \"elementContent\": \"Import Files\",\n    \"elementType\": \"BUTTON\",\n    \"event\": \"ImportModelResult\",\n    \"function\": \"import_model\",\n    \"module\": \"menu_bar\",\n    \"printerType\": \"LCD\",\n    \"title\": \"\"\n}\n") extentionData:  QVariant(QByteArray, "{\n    \"importType\": \"4\",\n    \"modelInformation\": [\n        {\n            \"fileName\": \"White_Dragon_Ancient_Updated\",\n            \"fileSize\": 32601784,\n            \"fileType\": \"stl\",\n            \"isSuccess\": 0\n        }\n    ],\n    \"numberOfModel\": 1\n}\n")
+2024-07-13 21:44:44 [INFO] uiState:  false
+2024-07-13 21:44:44 [WARN] enableMenuShortcut menushort cut: 264
+2024-07-13 21:44:44 [INFO] uiState:  false
+2024-07-13 21:44:44 [WARN] enableMenuShortcut menushort cut: 256
+2024-07-13 21:44:44 [WARN] gizmo emit sceneModelChanged
+2024-07-13 21:44:44 [WARN] ctrl_select IS_PROPERTY_SELECTED1  true 1
+2024-07-13 21:44:44 [INFO] uiState:  false
+2024-07-13 21:44:44 [WARN] enableMenuShortcut menushort cut: 264
+2024-07-13 21:44:44 [INFO] uiState:  false
+2024-07-13 21:44:44 [WARN] enableMenuShortcut menushort cut: 256
+2024-07-13 21:44:44 [INFO] "doReadMachineLcd setMachine Anycubic Photon Mono M5s"
+2024-07-13 21:44:44 [INFO] sendData:  "{\n    \"appName\": \"AnycubicPhotonWorkshop_V3.3.2\",\n    \"appVersion\": \"v3.3.2\",\n    \"business\": \"\",\n    \"city\": \"\xE6\x9B\xBC\xE8\xB0\xB7\",\n    \"country\": \"\xE6\xB3\xB0\xE5\x9B\xBD\",\n    \"elementContent\": \"\",\n    \"elementType\": \"\",\n    \"eventName\": \"ImportModelResult\",\n    \"function\": \"\",\n    \"isOverseasVersion\": true,\n    \"module\": \"\",\n    \"pcId\": \"735cdda212f7abd64a6d2f9a62594f1f\",\n    \"printerType\": \"\",\n    \"province\": \"\xE6\x9B\xBC\xE8\xB0\xB7\",\n    \"timestamp\": 1720881884,\n    \"title\": \"\",\n    \"userId\": 142227\n}\n"
+2024-07-13 21:44:44 [INFO] get_model_height() osg_model_group
+2024-07-13 21:44:45 [INFO] send post data success!
+2024-07-13 21:44:45 [WARN] void __cdecl EventMiniHandlerCallback::event(const struct MessageListResponse *,unsigned int,unsigned int,unsigned int,unsigned int)
+2024-07-13 21:44:45 [WARN] void __cdecl ACCloudNetRequest::onMessageListResponse(const struct MessageListResponse *,int,int,int,int)
+count = 6, pageIndex = 1, pageSize = 50, countAll = 6
+2024-07-13 21:44:45 [WARN] CloudMsgNotifyListModel::onMessageListResponse, count = 6, pageIndex = 1, pageSize = 50, countAll = 6
+2024-07-13 21:44:45 [WARN] void __cdecl EventMiniHandlerCallback::event(const struct MessageCountResponse *,unsigned int)
+2024-07-13 21:44:45 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:45 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:45 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:45 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:45 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:45 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:45 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:44:45 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:44:45 [WARN] MyFileListModel::onFileLists, pageIndex = 1, pageSize = 50, countAll = 7, size = 7
+2024-07-13 21:44:45 [WARN] void __cdecl CloudMsgNotifyListModel::onMessageCountResponse(const struct MessageCountResponse *,int), count = 3
+2024-07-13 21:44:45 [INFO] send post data success!
+2024-07-13 21:44:45 [INFO] send post data success!
+2024-07-13 21:44:46 [WARN] void __cdecl PrinterEventHandlerCallback::event(const struct Anycubic::Event *)
+2024-07-13 21:44:46 [WARN] void __cdecl PrintersDataModel::onPrinterCommonEvent(const struct Anycubic::Event *)
+code = 0, action = 500, status = 0, type = 20, errMsg = Unknown Reason, state = 
+2024-07-13 21:44:46 [WARN] void __cdecl PrintersDataModel::getListPrinter(void)
+m_printersTableStatus = 0, m_cloudNetRequest->userInfo()->loginStatus() = 0
+2024-07-13 21:44:46 [WARN] void __cdecl ACCloudNetRequest::getListPrinter(void)
+LOGIN_STATUS = 0
+2024-07-13 21:44:46 [INFO] uiState:  false
+2024-07-13 21:44:47 [WARN] void __cdecl PrintersDataModel::onPrinterListEvent(void *,int,void *)
+count = 1
+2024-07-13 21:44:47 [WARN] void __cdecl ACCloudNetRequest::getPrinterDetail(int)
+printerId = 69543
+2024-07-13 21:44:47 [WARN] void __cdecl EventMiniHandlerCallback::event(const struct ReasonResponse *,unsigned int)
+2024-07-13 21:44:47 [WARN] void __cdecl PrintersDataModel::onReasonResponse(const struct ReasonResponse *,int)
+count = 219
+2024-07-13 21:44:47 [WARN] void __cdecl PrinterEventHandlerCallback::event(const struct Anycubic::Event *)
+2024-07-13 21:44:47 [WARN] void __cdecl PrintersDataModel::onPrinterCommonEvent(const struct Anycubic::Event *)
+code = 0, action = 502, status = 0, type = 20, errMsg = Unknown Reason, state = 
+2024-07-13 21:44:47 [INFO] uiState:  false
+2024-07-13 21:44:49 [WARN] void __cdecl EventMiniHandlerCallback::event(const struct PrinterDetailResponse *)
+2024-07-13 21:44:49 [WARN] void __cdecl PrintersDataModel::onPrinterDetailResponse(const struct PrinterDetailResponse *)
+detail->name = Anycubic Photon Mono M5s, detail->project.print_status = 0, detail->project.pause = 0, detail->project.project_type = 0, detail->device_status = 2, detail->is_printing = 1
+2024-07-13 21:44:50 [INFO] uiState:  true
+2024-07-13 21:44:50 [WARN] enableMenuShortcut menushort cut: 0
+2024-07-13 21:44:51 [WARN] GizmoController::commandRecord()
+2024-07-13 21:44:51 [WARN] in commander record   false    0
+2024-07-13 21:44:51 [WARN] createSnapshot mirror false false false
+2024-07-13 21:44:51 [WARN] createSnapshot box len 229.628 , 152.288 , 181.2
+2024-07-13 21:44:51 [WARN] new state change command  0
+2024-07-13 21:44:51 [WARN] in store: ( 0 , 0 , 0 ) 
+2024-07-13 21:44:51 [WARN] syncInitScale3: ( 0 , 0 , 0 ) 
+2024-07-13 21:44:51 [WARN] set mgs
+2024-07-13 21:44:51 [WARN] box_len_after_rotation:  0 ,  0 ,  0
+2024-07-13 21:44:51 [WARN] onSyncTransToQml: x = 0, y = 0, z = 0
+2024-07-13 21:44:51 [WARN] in record current 
+2024-07-13 21:44:51 [WARN] createSnapshot mirror false false false
+2024-07-13 21:44:51 [WARN] createSnapshot box len 229.628 , 152.288 , 181.2
+2024-07-13 21:44:51 [WARN] _modelMatrices[id]!=(*acm) "White_Dragon_Ancient_Updated.stl"  -  "White_Dragon_Ancient_Updated.stl"
+2024-07-13 21:44:51 [WARN] _undoStack.peek().getGizmoType()  0 ,   _undoStack.peek().getIsDraggingModel()  true
+2024-07-13 21:44:51 [WARN] emit AppGlobal::instance()->commandModelMove(mainnodes);
+2024-07-13 21:44:51 [WARN] gizmo EmitModelTransformedOperation
+2024-07-13 21:44:51 [WARN] GizmoController::commandRecord()
+2024-07-13 21:44:51 [WARN] in commander record   false    0
+2024-07-13 21:44:51 [WARN] createSnapshot mirror false false false
+2024-07-13 21:44:51 [WARN] createSnapshot box len 229.628 , 152.288 , 181.2
+2024-07-13 21:44:51 [WARN] _modelMatrices[id]!=(*acm) "White_Dragon_Ancient_Updated.stl"  -  "White_Dragon_Ancient_Updated.stl"
+2024-07-13 21:44:51 [WARN] new state change command  0
+2024-07-13 21:44:52 [WARN] in record current 
+2024-07-13 21:44:52 [WARN] createSnapshot mirror false false false
+2024-07-13 21:44:52 [WARN] createSnapshot box len 229.628 , 152.288 , 181.2
+2024-07-13 21:44:52 [WARN] _modelMatrices[id]!=(*acm) "White_Dragon_Ancient_Updated.stl"  -  "White_Dragon_Ancient_Updated.stl"
+2024-07-13 21:44:52 [WARN] _undoStack.peek().getGizmoType()  0 ,   _undoStack.peek().getIsDraggingModel()  true
+2024-07-13 21:44:52 [WARN] emit AppGlobal::instance()->commandModelMove(mainnodes);
+2024-07-13 21:44:52 [WARN] gizmo EmitModelTransformedOperation
+2024-07-13 21:44:53 [WARN] GizmoController::commandRecord()
+2024-07-13 21:44:53 [WARN] in commander record   false    0
+2024-07-13 21:44:53 [WARN] createSnapshot mirror false false false
+2024-07-13 21:44:53 [WARN] createSnapshot box len 229.628 , 152.288 , 181.2
+2024-07-13 21:44:53 [WARN] _modelMatrices[id]!=(*acm) "White_Dragon_Ancient_Updated.stl"  -  "White_Dragon_Ancient_Updated.stl"
+2024-07-13 21:44:53 [WARN] new state change command  0
+2024-07-13 21:44:53 [WARN] in record current 
+2024-07-13 21:44:53 [WARN] createSnapshot mirror false false false
+2024-07-13 21:44:53 [WARN] createSnapshot box len 229.628 , 152.288 , 181.2
+2024-07-13 21:44:53 [WARN] _modelMatrices[id]!=(*acm) "White_Dragon_Ancient_Updated.stl"  -  "White_Dragon_Ancient_Updated.stl"
+2024-07-13 21:44:53 [WARN] _undoStack.peek().getGizmoType()  0 ,   _undoStack.peek().getIsDraggingModel()  true
+2024-07-13 21:44:53 [WARN] emit AppGlobal::instance()->commandModelMove(mainnodes);
+2024-07-13 21:44:53 [WARN] gizmo EmitModelTransformedOperation
+2024-07-13 21:44:57 [INFO] "doShowResinEditConfig show window!"
+2024-07-13 21:44:57 [INFO] event:  "printer_show_edit_resin" data:  QVariant(Invalid) extentionData:  QVariant(Invalid)
+2024-07-13 21:44:57 [INFO] uiState:  false
+2024-07-13 21:45:00 [INFO] "MachineResinManager postResinParamChange!"
+2024-07-13 21:45:00 [INFO] event:  "printer_resin_param_change" data:  QVariant(Invalid) extentionData:  QVariant(Invalid)
+2024-07-13 21:45:00 [INFO] uiState:  true
+2024-07-13 21:45:04 [WARN] auxiliaryClicked  6
+2024-07-13 21:45:04 [INFO] uiState:  false
+2024-07-13 21:45:04 [WARN] WindowClickedOperation
+2024-07-13 21:45:04 [WARN] clik btn 3
+2024-07-13 21:45:04 [WARN] bindSelectedModel2
+2024-07-13 21:45:04 [WARN] in recoverInitState: ( 229.628 , 152.288 , 181.2 ) 
+2024-07-13 21:45:04 [WARN] set mgs
+2024-07-13 21:45:04 [WARN] box_len_after_rotation:  229.628 ,  152.288 ,  181.2
+2024-07-13 21:45:04 [WARN] aaaaaaaa:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:04 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:04 [WARN] cccccccc:  1 , 1 , 1
+2024-07-13 21:45:04 [WARN] AuxiliaryClickedOperation
+2024-07-13 21:45:04 [WARN] auxiliaryClicked Op 6
+2024-07-13 21:45:04 [WARN] auxiliaryClicked  6
+2024-07-13 21:45:04 [WARN] AuxiliaryClickedOperation
+2024-07-13 21:45:04 [WARN] auxiliaryClicked Op 6
+2024-07-13 21:45:06 [WARN] onscaleGizmoClick
+2024-07-13 21:45:06 [WARN] onscaleGizmoClick scale:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] before scale xyz:  2.91422 ,  7.3068 ,  0.000732422
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  1
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  1 ,  1 ,  1
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  1
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  1 ,  1 ,  1
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  1
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  1 ,  1 ,  1
+2024-07-13 21:45:06 [WARN] add gizmo commandRecord single  3
+2024-07-13 21:45:06 [WARN] GizmoController::commandRecord()
+2024-07-13 21:45:06 [WARN] in commander record   false    3
+2024-07-13 21:45:06 [WARN] createSnapshot mirror false false false
+2024-07-13 21:45:06 [WARN] createSnapshot box len 229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] _modelMatrices[id]!=(*acm) "White_Dragon_Ancient_Updated.stl"  -  "White_Dragon_Ancient_Updated.stl"
+2024-07-13 21:45:06 [WARN] new state change command  3
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.997197
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.997197 ,  0.997197 ,  0.997197
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  228.984 , 151.861 , 180.692
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.997197 , 0.997197 , 0.997197
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.991582
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.991582 ,  0.991582 ,  0.991582
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  227.695 , 151.006 , 179.675
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.991582 , 0.991582 , 0.991583
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.985959
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.985959 ,  0.985959 ,  0.985959
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  226.404 , 150.15 , 178.656
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.985959 , 0.985959 , 0.985959
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.983145
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.983145 ,  0.983145 ,  0.983145
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  225.758 , 149.721 , 178.146
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.983145 , 0.983145 , 0.983145
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.98033
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.98033 ,  0.98033 ,  0.98033
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  225.111 , 149.292 , 177.636
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.98033 , 0.98033 , 0.98033
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.974691
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.974691 ,  0.974691 ,  0.974691
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  223.816 , 148.434 , 176.614
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.974691 , 0.974691 , 0.974691
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.97187
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.97187 ,  0.97187 ,  0.97187
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  223.168 , 148.004 , 176.103
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.97187 , 0.97187 , 0.97187
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.969045
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.969045 ,  0.969045 ,  0.969045
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  222.52 , 147.574 , 175.591
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.969045 , 0.969045 , 0.969045
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.960561
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.960561 ,  0.960561 ,  0.960561
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  220.572 , 146.282 , 174.054
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.960561 , 0.960561 , 0.960561
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.960561
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.960561 ,  0.960561 ,  0.960561
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.952058
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.952058 ,  0.952058 ,  0.952058
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  218.619 , 144.987 , 172.513
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.952058 , 0.952058 , 0.952058
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.946378
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.946378 ,  0.946378 ,  0.946378
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  217.315 , 144.122 , 171.484
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.946378 , 0.946378 , 0.946378
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.937844
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.937844 ,  0.937844 ,  0.937844
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  215.355 , 142.822 , 169.937
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.937844 , 0.937844 , 0.937844
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.926437
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.926437 ,  0.926437 ,  0.926437
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  212.736 , 141.085 , 167.87
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.926437 , 0.926437 , 0.926437
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.917862
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.917862 ,  0.917862 ,  0.917862
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  210.767 , 139.779 , 166.317
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.917862 , 0.917862 , 0.917862
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.909265
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.909265 ,  0.909265 ,  0.909265
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  208.793 , 138.47 , 164.759
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.909265 , 0.909265 , 0.909265
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.906395
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.906395 ,  0.906395 ,  0.906395
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  208.134 , 138.033 , 164.239
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.906395 , 0.906395 , 0.906395
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.903523
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.903523 ,  0.903523 ,  0.903523
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  207.474 , 137.596 , 163.718
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.903523 , 0.903523 , 0.903523
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.903523
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.903523 ,  0.903523 ,  0.903523
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.903523
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.903523 ,  0.903523 ,  0.903523
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.900583
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.900583 ,  0.900583 ,  0.900583
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  206.799 , 137.148 , 163.186
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.900583 , 0.900583 , 0.900583
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.89195
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.89195 ,  0.89195 ,  0.89195
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  204.817 , 135.833 , 161.621
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.89195 , 0.89195 , 0.89195
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.886184
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.886184 ,  0.886184 ,  0.886184
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  203.493 , 134.955 , 160.577
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.886184 , 0.886184 , 0.886184
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.877518
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.877518 ,  0.877518 ,  0.877518
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  201.503 , 133.635 , 159.006
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.877518 , 0.877518 , 0.877518
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.874559
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.874559 ,  0.874559 ,  0.874559
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  200.823 , 133.185 , 158.47
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.874559 , 0.874559 , 0.874559
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.871664
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.871664 ,  0.871664 ,  0.871664
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  200.158 , 132.744 , 157.946
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.871664 , 0.871664 , 0.871664
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.868767
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.868767 ,  0.868767 ,  0.868767
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  199.493 , 132.303 , 157.421
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.868767 , 0.868767 , 0.868767
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.868767
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.868767 ,  0.868767 ,  0.868767
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.865869
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.865869 ,  0.865869 ,  0.865869
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  198.828 , 131.861 , 156.895
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.865869 , 0.865869 , 0.865869
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.865869
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.865869 ,  0.865869 ,  0.865869
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.865869
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.865869 ,  0.865869 ,  0.865869
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.865869
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.865869 ,  0.865869 ,  0.865869
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.860063
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.860063 ,  0.860063 ,  0.860063
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  197.495 , 130.977 , 155.844
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.860063 , 0.860063 , 0.860064
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.854185
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.854185 ,  0.854185 ,  0.854185
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  196.145 , 130.082 , 154.778
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.854185 , 0.854185 , 0.854185
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.845385
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.845385 ,  0.845385 ,  0.845385
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  194.124 , 128.742 , 153.184
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.845385 , 0.845385 , 0.845385
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.836628
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.836628 ,  0.836628 ,  0.836628
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  192.113 , 127.408 , 151.597
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.836628 , 0.836628 , 0.836628
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.827855
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.827855 ,  0.827855 ,  0.827855
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  190.099 , 126.072 , 150.007
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.827855 , 0.827855 , 0.827855
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.818999
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.818999 ,  0.818999 ,  0.818999
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  188.065 , 124.724 , 148.403
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.818999 , 0.818999 , 0.818999
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.813124
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.813124 ,  0.813124 ,  0.813124
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  186.716 , 123.829 , 147.338
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.813124 , 0.813124 , 0.813124
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.801288
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.801288 ,  0.801288 ,  0.801288
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  183.998 , 122.027 , 145.193
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.801288 , 0.801288 , 0.801288
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.792436
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.792436 ,  0.792436 ,  0.792436
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  181.966 , 120.679 , 143.589
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.792436 , 0.792436 , 0.792436
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.777638
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.777638 ,  0.777638 ,  0.777638
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  178.568 , 118.425 , 140.908
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.777638 , 0.777638 , 0.777638
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.76576
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.76576 ,  0.76576 ,  0.76576
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  175.84 , 116.616 , 138.756
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.76576 , 0.76576 , 0.76576
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.753848
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.753848 ,  0.753848 ,  0.753848
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  173.105 , 114.802 , 136.597
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.753848 , 0.753848 , 0.753848
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.738906
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.738906 ,  0.738906 ,  0.738906
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  169.673 , 112.526 , 133.89
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.738906 , 0.738906 , 0.738906
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.720841
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.720841 ,  0.720841 ,  0.720841
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  165.525 , 109.775 , 130.616
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.720841 , 0.720841 , 0.720841
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.708732
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.708732 ,  0.708732 ,  0.708732
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  162.745 , 107.931 , 128.422
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.708732 , 0.708732 , 0.708732
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.696648
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.696648 ,  0.696648 ,  0.696648
+2024-07-13 21:45:06 [WARN] aaaaaaaa:  159.97 , 106.091 , 126.233
+2024-07-13 21:45:06 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:06 [WARN] cccccccc:  0.696648 , 0.696648 , 0.696648
+2024-07-13 21:45:06 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:06 [WARN] uniform scaling --------------------:  0.690531
+2024-07-13 21:45:06 [WARN] *****scale vector*****:  0.690531 ,  0.690531 ,  0.690531
+2024-07-13 21:45:07 [WARN] aaaaaaaa:  158.565 , 105.16 , 125.124
+2024-07-13 21:45:07 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:07 [WARN] cccccccc:  0.690531 , 0.690531 , 0.690531
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.678394
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.678394 ,  0.678394 ,  0.678394
+2024-07-13 21:45:07 [WARN] aaaaaaaa:  155.778 , 103.311 , 122.925
+2024-07-13 21:45:07 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:07 [WARN] cccccccc:  0.678394 , 0.678394 , 0.678394
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.672311
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.672311 ,  0.672311 ,  0.672311
+2024-07-13 21:45:07 [WARN] aaaaaaaa:  154.381 , 102.385 , 121.823
+2024-07-13 21:45:07 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:07 [WARN] cccccccc:  0.672311 , 0.672311 , 0.672311
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.660059
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.660059 ,  0.660059 ,  0.660059
+2024-07-13 21:45:07 [WARN] aaaaaaaa:  151.568 , 100.519 , 119.603
+2024-07-13 21:45:07 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:07 [WARN] cccccccc:  0.660059 , 0.660059 , 0.660059
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.644767
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.644767 ,  0.644767 ,  0.644767
+2024-07-13 21:45:07 [WARN] aaaaaaaa:  148.057 , 98.1903 , 116.832
+2024-07-13 21:45:07 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:07 [WARN] cccccccc:  0.644767 , 0.644767 , 0.644767
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.629357
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.629357 ,  0.629357 ,  0.629357
+2024-07-13 21:45:07 [WARN] aaaaaaaa:  144.518 , 95.8436 , 114.04
+2024-07-13 21:45:07 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:07 [WARN] cccccccc:  0.629357 , 0.629357 , 0.629357
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.61395
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.61395 ,  0.61395 ,  0.61395
+2024-07-13 21:45:07 [WARN] aaaaaaaa:  140.98 , 93.4972 , 111.248
+2024-07-13 21:45:07 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:07 [WARN] cccccccc:  0.61395 , 0.61395 , 0.61395
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.598425
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.598425 ,  0.598425 ,  0.598425
+2024-07-13 21:45:07 [WARN] aaaaaaaa:  137.415 , 91.133 , 108.435
+2024-07-13 21:45:07 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:07 [WARN] cccccccc:  0.598425 , 0.598425 , 0.598425
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.5672
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.5672 ,  0.5672 ,  0.5672
+2024-07-13 21:45:07 [WARN] aaaaaaaa:  130.245 , 86.3778 , 102.777
+2024-07-13 21:45:07 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:07 [WARN] cccccccc:  0.5672 , 0.5672 , 0.5672
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.557767
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.557767 ,  0.557767 ,  0.557767
+2024-07-13 21:45:07 [WARN] aaaaaaaa:  128.079 , 84.9412 , 101.067
+2024-07-13 21:45:07 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:07 [WARN] cccccccc:  0.557767 , 0.557767 , 0.557767
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.548365
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.548365 ,  0.548365 ,  0.548365
+2024-07-13 21:45:07 [WARN] aaaaaaaa:  125.92 , 83.5095 , 99.3638
+2024-07-13 21:45:07 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:07 [WARN] cccccccc:  0.548365 , 0.548365 , 0.548365
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.542086
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.542086 ,  0.542086 ,  0.542086
+2024-07-13 21:45:07 [WARN] aaaaaaaa:  124.478 , 82.5532 , 98.226
+2024-07-13 21:45:07 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:07 [WARN] cccccccc:  0.542086 , 0.542086 , 0.542086
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.542086
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.542086 ,  0.542086 ,  0.542086
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.542086
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.542086 ,  0.542086 ,  0.542086
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.542086
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.542086 ,  0.542086 ,  0.542086
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.542086
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.542086 ,  0.542086 ,  0.542086
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.542086
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.542086 ,  0.542086 ,  0.542086
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.542086
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.542086 ,  0.542086 ,  0.542086
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.542086
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.542086 ,  0.542086 ,  0.542086
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.542086
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.542086 ,  0.542086 ,  0.542086
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.542086
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.542086 ,  0.542086 ,  0.542086
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.542086
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.542086 ,  0.542086 ,  0.542086
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.542086
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.542086 ,  0.542086 ,  0.542086
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.542086
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.542086 ,  0.542086 ,  0.542086
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.542086
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.542086 ,  0.542086 ,  0.542086
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.542086
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.542086 ,  0.542086 ,  0.542086
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.542086
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.542086 ,  0.542086 ,  0.542086
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.542086
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.542086 ,  0.542086 ,  0.542086
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.542086
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.542086 ,  0.542086 ,  0.542086
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.542086
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.542086 ,  0.542086 ,  0.542086
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.542086
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.542086 ,  0.542086 ,  0.542086
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.542086
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.542086 ,  0.542086 ,  0.542086
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.542086
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.542086 ,  0.542086 ,  0.542086
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.542086
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.542086 ,  0.542086 ,  0.542086
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.542034
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.542034 ,  0.542034 ,  0.542034
+2024-07-13 21:45:07 [WARN] aaaaaaaa:  124.466 , 82.5453 , 98.2166
+2024-07-13 21:45:07 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:07 [WARN] cccccccc:  0.542034 , 0.542034 , 0.542034
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.542034
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.542034 ,  0.542034 ,  0.542034
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.542034
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.542034 ,  0.542034 ,  0.542034
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.542034
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.542034 ,  0.542034 ,  0.542034
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.542034
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.542034 ,  0.542034 ,  0.542034
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.542034
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.542034 ,  0.542034 ,  0.542034
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.542034
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.542034 ,  0.542034 ,  0.542034
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.542034
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.542034 ,  0.542034 ,  0.542034
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.542034
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.542034 ,  0.542034 ,  0.542034
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.538891
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.538891 ,  0.538891 ,  0.538891
+2024-07-13 21:45:07 [WARN] aaaaaaaa:  123.744 , 82.0666 , 97.647
+2024-07-13 21:45:07 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:07 [WARN] cccccccc:  0.538891 , 0.538891 , 0.538891
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.526243
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.526243 ,  0.526243 ,  0.526243
+2024-07-13 21:45:07 [WARN] aaaaaaaa:  120.84 , 80.1405 , 95.3552
+2024-07-13 21:45:07 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:07 [WARN] cccccccc:  0.526243 , 0.526243 , 0.526243
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.51039
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.51039 ,  0.51039 ,  0.51039
+2024-07-13 21:45:07 [WARN] aaaaaaaa:  117.2 , 77.7263 , 92.4827
+2024-07-13 21:45:07 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:07 [WARN] cccccccc:  0.51039 , 0.51039 , 0.51039
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.484887
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.484887 ,  0.484887 ,  0.484887
+2024-07-13 21:45:07 [WARN] aaaaaaaa:  111.344 , 73.8425 , 87.8615
+2024-07-13 21:45:07 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:07 [WARN] cccccccc:  0.484887 , 0.484887 , 0.484887
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.465684
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.465684 ,  0.465684 ,  0.465684
+2024-07-13 21:45:07 [WARN] aaaaaaaa:  106.934 , 70.9181 , 84.3819
+2024-07-13 21:45:07 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:07 [WARN] cccccccc:  0.465684 , 0.465684 , 0.465684
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.443133
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.443133 ,  0.443133 ,  0.443133
+2024-07-13 21:45:07 [WARN] aaaaaaaa:  101.756 , 67.4839 , 80.2958
+2024-07-13 21:45:07 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:07 [WARN] cccccccc:  0.443133 , 0.443133 , 0.443133
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.423779
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.423779 ,  0.423779 ,  0.423779
+2024-07-13 21:45:07 [WARN] aaaaaaaa:  97.3115 , 64.5364 , 76.7887
+2024-07-13 21:45:07 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:07 [WARN] cccccccc:  0.423779 , 0.423779 , 0.423779
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.381424
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.381424 ,  0.381424 ,  0.381424
+2024-07-13 21:45:07 [WARN] aaaaaaaa:  87.5856 , 58.0863 , 69.114
+2024-07-13 21:45:07 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:07 [WARN] cccccccc:  0.381424 , 0.381424 , 0.381424
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.361748
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.361748 ,  0.361748 ,  0.361748
+2024-07-13 21:45:07 [WARN] aaaaaaaa:  83.0675 , 55.0899 , 65.5488
+2024-07-13 21:45:07 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:07 [WARN] cccccccc:  0.361748 , 0.361748 , 0.361748
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.348572
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.348572 ,  0.348572 ,  0.348572
+2024-07-13 21:45:07 [WARN] aaaaaaaa:  80.0418 , 53.0833 , 63.1612
+2024-07-13 21:45:07 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:07 [WARN] cccccccc:  0.348572 , 0.348572 , 0.348572
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.335353
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.335353 ,  0.335353 ,  0.335353
+2024-07-13 21:45:07 [WARN] aaaaaaaa:  77.0064 , 51.0702 , 60.766
+2024-07-13 21:45:07 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:07 [WARN] cccccccc:  0.335353 , 0.335353 , 0.335353
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.325437
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.325437 ,  0.325437 ,  0.325437
+2024-07-13 21:45:07 [WARN] aaaaaaaa:  74.7295 , 49.5602 , 58.9692
+2024-07-13 21:45:07 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:07 [WARN] cccccccc:  0.325437 , 0.325437 , 0.325437
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.325437
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.325437 ,  0.325437 ,  0.325437
+2024-07-13 21:45:07 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:07 [WARN] uniform scaling --------------------:  0.322125
+2024-07-13 21:45:07 [WARN] *****scale vector*****:  0.322125 ,  0.322125 ,  0.322125
+2024-07-13 21:45:08 [WARN] aaaaaaaa:  73.9689 , 49.0558 , 58.3691
+2024-07-13 21:45:08 [WARN] bbbbbbbb:  229.628 , 152.288 , 181.2
+2024-07-13 21:45:08 [WARN] cccccccc:  0.322125 , 0.322125 , 0.322125
+2024-07-13 21:45:08 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:08 [WARN] uniform scaling --------------------:  0.322125
+2024-07-13 21:45:08 [WARN] *****scale vector*****:  0.322125 ,  0.322125 ,  0.322125
+2024-07-13 21:45:08 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:08 [WARN] uniform scaling --------------------:  0.322125
+2024-07-13 21:45:08 [WARN] *****scale vector*****:  0.322125 ,  0.322125 ,  0.322125
+2024-07-13 21:45:08 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:08 [WARN] uniform scaling --------------------:  0.322125
+2024-07-13 21:45:08 [WARN] *****scale vector*****:  0.322125 ,  0.322125 ,  0.322125
+2024-07-13 21:45:08 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:08 [WARN] uniform scaling --------------------:  0.322125
+2024-07-13 21:45:08 [WARN] *****scale vector*****:  0.322125 ,  0.322125 ,  0.322125
+2024-07-13 21:45:08 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:08 [WARN] uniform scaling --------------------:  0.322125
+2024-07-13 21:45:08 [WARN] *****scale vector*****:  0.322125 ,  0.322125 ,  0.322125
+2024-07-13 21:45:08 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:08 [WARN] uniform scaling --------------------:  0.322125
+2024-07-13 21:45:08 [WARN] *****scale vector*****:  0.322125 ,  0.322125 ,  0.322125
+2024-07-13 21:45:08 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:08 [WARN] uniform scaling --------------------:  0.322125
+2024-07-13 21:45:08 [WARN] *****scale vector*****:  0.322125 ,  0.322125 ,  0.322125
+2024-07-13 21:45:08 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:08 [WARN] uniform scaling --------------------:  0.322125
+2024-07-13 21:45:08 [WARN] *****scale vector*****:  0.322125 ,  0.322125 ,  0.322125
+2024-07-13 21:45:08 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:08 [WARN] uniform scaling --------------------:  0.322125
+2024-07-13 21:45:08 [WARN] *****scale vector*****:  0.322125 ,  0.322125 ,  0.322125
+2024-07-13 21:45:08 [WARN] after scale xyz:  2.91422 ,  7.3068 ,  61.4162
+2024-07-13 21:45:08 [WARN] ScaleCallBackOperation originXYZ 2.91422 7.3068 0.000732422
+2024-07-13 21:45:08 [WARN] ScaleCallBackOperation nowXYZ 2.91422 7.3068 61.4162
+2024-07-13 21:45:08 [WARN] Add ScaleCallBackOperation
+2024-07-13 21:45:08 [WARN] add gizmo commandRecord single  3
+2024-07-13 21:45:08 [WARN] in record current 
+2024-07-13 21:45:08 [WARN] createSnapshot mirror false false false
+2024-07-13 21:45:08 [WARN] createSnapshot box len 229.628 , 152.288 , 181.2
+2024-07-13 21:45:08 [WARN] _modelMatrices[id]!=(*acm) "White_Dragon_Ancient_Updated.stl"  -  "White_Dragon_Ancient_Updated.stl"
+2024-07-13 21:45:08 [WARN] _undoStack.peek().getGizmoType()  3 ,   _undoStack.peek().getIsDraggingModel()  false
+2024-07-13 21:45:08 [WARN] emit AppGlobal::instance()->commandModelRotMatrix(mainnodes);
+2024-07-13 21:45:08 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:08 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:08 [WARN] ScaleCallBackOperation m_originXYZ 2.91422 7.3068 0.000732422
+2024-07-13 21:45:08 [WARN] ScaleCallBackOperation m_nowXYZ 2.91422 7.3068 61.4162
+2024-07-13 21:45:08 [WARN] ScaleCallBackOperation deltaXYZ 0 0 -61.4155
+2024-07-13 21:45:08 [WARN] ScaleCallBackOperation finally scale xyz:  2.91422 ,  7.3068 ,  61.4162
+2024-07-13 21:45:08 [WARN] gizmo EmitModelTransformedOperation
+2024-07-13 21:45:08 [WARN] MatrixUpdateOperation
+2024-07-13 21:45:09 [WARN] GizmoController::refreshGizmo1 3 false false
+2024-07-13 21:45:09 [WARN] GizmoController::refreshGizmo2 3
+2024-07-13 21:45:09 [WARN] WindowClickedOperation
+2024-07-13 21:45:09 [WARN] clik btn 3
+2024-07-13 21:45:09 [WARN] in recoverInitState: ( 73.9689 , 49.0558 , 58.3691 ) 
+2024-07-13 21:45:09 [WARN] set mgs
+2024-07-13 21:45:09 [WARN] box_len_after_rotation:  0 ,  0 ,  0
+2024-07-13 21:45:09 [WARN] auxiliaryClicked  6
+2024-07-13 21:45:09 [WARN] AuxiliaryClickedOperation
+2024-07-13 21:45:09 [WARN] auxiliaryClicked Op 6
+2024-07-13 21:45:10 [INFO] uiState:  true
+2024-07-13 21:45:10 [WARN] WindowClickedOperation
+2024-07-13 21:45:10 [WARN] clik btn -1
+2024-07-13 21:45:10 [WARN] close window
+2024-07-13 21:45:20 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:45:20 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:45:20 [INFO] uiState:  false
+2024-07-13 21:45:21 [INFO] uiState:  true
+2024-07-13 21:45:21 [INFO] event:  "updater_save_software" data:  QVariant(Invalid) extentionData:  QVariant(Invalid)
+2024-07-13 21:45:21 [INFO] scene modifyed:  true
+2024-07-13 21:45:21 [WARN] QFSFileEngine::open: No file name specified
+2024-07-13 21:45:21 [WARN] Cannot open file '', because: No file name specified
+2024-07-13 21:45:21 [INFO] uiState:  false
+2024-07-13 21:45:23 [INFO] uiState:  true
+2024-07-13 21:45:23 [INFO] "install program autoupdater!"
+2024-07-13 21:45:23 [INFO] event:  "updater_install_program" data:  QVariant(Invalid) extentionData:  QVariant(Invalid)
+2024-07-13 21:45:24 [INFO] event:  "main_quit" data:  QVariant(bool, false) extentionData:  QVariant(Invalid)
+2024-07-13 21:45:24 [INFO] save support file is success!
+2024-07-13 21:45:24 [WARN] qrc:/qml/AutoUpdaterComponent/SoftUpdateWindow.qml:66: TypeError: Cannot read property 'left' of undefined
+2024-07-13 21:45:24 [WARN] qrc:/qml/AutoUpdaterComponent/SoftUpdateWindow.qml:67: TypeError: Cannot read property 'bottom' of undefined
+2024-07-13 21:45:24 [WARN] qrc:/qml/AutoUpdaterComponent/SoftUpdateWindow.qml:38: TypeError: Cannot read property 'left' of undefined
+2024-07-13 21:45:24 [WARN] qrc:/qml/AutoUpdaterComponent/SoftUpdateWindow.qml:39: TypeError: Cannot read property 'top' of undefined
+2024-07-13 21:45:24 [WARN] qrc:/qml/AutoUpdaterComponent/SoftUpdateWindow.qml:54: TypeError: Cannot read property 'right' of undefined
+2024-07-13 21:45:24 [WARN] qrc:/qml/AutoUpdaterComponent/SoftUpdateWindow.qml:72: TypeError: Cannot read property 'right' of undefined
+2024-07-13 21:45:24 [WARN] qrc:/qml/AutoUpdaterComponent/SoftUpdateWindow.qml:73: TypeError: Cannot read property 'verticalCenter' of undefined
+2024-07-13 21:45:24 [WARN] qrc:/qml/AutoUpdaterComponent/SoftUpdateWindow.qml:84: TypeError: Cannot read property 'verticalCenter' of undefined
+2024-07-13 21:45:25 [INFO] AnycubicPhotonWorkshop end!
+2024-07-13 21:45:25 [WARN] QThreadStorage: Thread 0x271614fdc30 exited after QThreadStorage 7 destroyed
